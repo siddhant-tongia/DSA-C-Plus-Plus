@@ -21,4 +21,5 @@ int main()
         cout<<sqa[i]<<endl;
     }
 return 0;
+
 }
