@@ -9,7 +9,7 @@ int ME(vector<int>nums)
     {
         if(freq==0)
         {
-            ans==nums[i];
+            ans=nums[i];
         }
         if(ans==nums[i])
         {
@@ -28,4 +28,5 @@ int main()
     vector<int>nums={1,2,1,2,1};
    cout<<"The number is :"<<ME(nums); 
 return 0;
+
 }
