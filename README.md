@@ -10,11 +10,12 @@ I have organized my learning into specific modules:
 * [03-Sorting-Algorithms](./03-Sorting-Algorithms): Implementing Bubble, Selection, and Insertion sort.
 * [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search): Binary search and its various applications.
 * [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques): Subarray logic, Kadane's Algorithm, and optimization problems.
+* [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers):Aggressive cow, Book allocation, Painter partision.
+* [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays):Palindrome, PermutationInString, RemoveAllOccurrence, ReverseString, ReverseWordInString, StringCompression.
 
 # Tech Stack
 - Language: C++
 - Focus: Data Structures & Algorithms
-- Source: Apna College (126 Video Playlist)
 
 # Current Status
 - [x] Organized Folder Structure
