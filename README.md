@@ -11,7 +11,8 @@ I have organized my learning into specific modules:
 * [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search): Binary search and its various applications.
 * [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques): Subarray logic, Kadane's Algorithm, and optimization problems.
 * [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers):Aggressive cow, Book allocation, Painter partision.
-* [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays):Palindrome, PermutationInString, RemoveAllOccurrence, ReverseString, ReverseWordInString, StringCompression.
+* [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays):Palindrome, Permutation In String, Remove All Occurrence, Reverse String, Reverse Word In String, String Compression.
+* [08-Maths_For_DSA](./08-Maths_For_DSA):Armstrong, Digit In Number, GCD, LCM, Prime Check, Reverse Number, Sieve Of Eratosthenes.
 
 # Tech Stack
 - Language: C++
