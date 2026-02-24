@@ -25,4 +25,4 @@ I have organized my learning into specific modules:
 - [ ] Start Dynamic Programming (DP)
 - [ ] Summer Internship 2026 Preparation
 
-*Created by [Siddhant Tongia]((https://github.com/siddhant-tongia))*
+*Created by [Siddhant Tongia](https://github.com/siddhant-tongia)*
