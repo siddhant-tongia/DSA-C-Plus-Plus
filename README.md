@@ -23,6 +23,5 @@ I have organized my learning into specific modules:
 - [x] Organized Folder Structure
 - [ ] Complete All Sorting Algorithms
 - [ ] Start Dynamic Programming (DP)
-- [ ] Summer Internship 2026 Preparation
 
 *Created by [Siddhant Tongia](https://github.com/siddhant-tongia)*
