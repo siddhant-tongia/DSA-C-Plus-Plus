@@ -28,5 +28,4 @@ int main()
     vector<int>nums={1,2,1,2,1};
    cout<<"The number is :"<<ME(nums); 
 return 0;
-
 }

@@ -1,62 +1,51 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-bool isValid(vector<int>&vec,int n,int m,int maxAllowedpages)
-{
-    int pages=0,stu=1;
-    
-    for(int i=0;i<n;i++)
-    {
-        if(vec[i]>maxAllowedpages)
-        {
+
+bool isValid(vector<int> &nums,int n , int m , int maxAllocation){
+    int pages = 0 ,student = 1;
+    for(int i=0 ; i<n ; i++){
+        if(nums[i] > maxAllocation){
             return false;
         }
-        if(vec[i]+pages<=maxAllowedpages)
-        {
-            pages+=vec[i];
+        if(nums[i] + pages <= maxAllocation){
+            pages += nums[i];
         }
-        else
-        {
-            pages=vec[i];
-            stu++;
+        else{
+            pages = nums[i];
+            student++;
         }
     }
-    if(stu<=m)
-    {
+    if(student <= m){
         return true;
-    }
-    else
-    {
+    }else{
         return false;
     }
 }
-int solution(vector<int>&vec,int n,int m)
-{
-    if(n<m)
-    {
+
+int solution(vector<int> &nums,int n ,int m){
+    if(n<m){
         return -1;
     }
-    int sum=0,max_value=0;
-    for(int i=0;i<n;i++){
-        sum+=vec[i];
-        max_value=max(max_value,vec[i]);
+    int sum = 0;
+    for(int i=0 ; i<n ;i++){
+        sum += nums[i];
     }
-    int st=max_value,end=sum,ans=-1;
-    while(st<=end)
-    {
-        int mid=st+(end-st)/2;
-        if(isValid(vec,n,m,mid))
-        {
-            ans=mid;
-            end=mid-1;
-        }
-        else
-        {
-            st=mid+1;
+    int st = 0 , end = sum;
+    int ans = -1;
+    while(st <= end){
+        int mid = st + (end-st)/2;
+        if(isValid(nums,n,m,mid)){
+            ans = mid;
+            end = mid-1;
+        }else{
+            st = mid+1;
         }
     }
 return ans;
 }
+
+
  
 int main()
 {

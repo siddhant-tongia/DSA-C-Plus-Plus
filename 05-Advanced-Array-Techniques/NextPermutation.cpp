@@ -36,7 +36,7 @@ void nextpermutation(vector<int>&vec)
  
 int main()
 {
-   vector<int> vec={};
+   vector<int> vec={2,3,6,5,4,1};
    nextpermutation(vec);
    for(int val : vec){
     cout<<val<<" ";

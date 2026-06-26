@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+
+# IDE/Editor folders
+.vscode/
+
+# Excluded directories
+DSA Notes And Revision/
+11-Advanced-Backtracking-Techniques/
+Revision/
+
+# Duplicate folder (accidentally placed inside 08-Maths_For_DSA)
+08-Maths_For_DSA/07-Strings-and-Char-Arrays/

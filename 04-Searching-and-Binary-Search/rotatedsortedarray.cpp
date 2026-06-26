@@ -15,7 +15,7 @@ int num(vector<int>nums,int target)
         }
         if(nums[st]>=nums[mid])
         {
-            if(nums[mid]<=target && target<=nums[end])
+            if(nums[mid]<target && target<=nums[end])
             {
                 st=mid+1;
             }
@@ -24,9 +24,9 @@ int num(vector<int>nums,int target)
                 end=mid-1;
             }
         }
-        if(nums[st]<=nums[mid])
+        else
         {
-            if(nums[st]<=target && target<=nums[mid])
+            if(nums[st]<=target && target<nums[mid])
             {
                 end=mid-1;
             }
