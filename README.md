@@ -14,6 +14,7 @@ I have organized my learning into specific modules:
 * [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays):Palindrome, Permutation In String, Remove All Occurrence, Reverse String, Reverse Word In String, String Compression.
 * [08-Maths_For_DSA](./08-Maths_For_DSA):Armstrong, Digit In Number, GCD, LCM, Prime Check, Reverse Number, Sieve Of Eratosthenes.
 * [09-2D_Array](./09-2D_Array):DigonalSum, FindMissingAndRepeatedValue, Input_Output, LinerSearch, MaiximumColumnSum, MaximumRowSum, SearchInMatrix, SpiralMatrix.
+* [10-Recursion_Basics](./10-Recursion_Basics):ArrayIsSortedOrNot, Factorial, Fibbonacci, Permutation, PrintAllSubsets, RecursiveBinarySearch, Subsets, SumOfnNums.
 
 # Tech Stack
 - Language: C++
