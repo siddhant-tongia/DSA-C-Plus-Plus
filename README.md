@@ -211,9 +211,8 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 | Platform | Link |
 |:--------:|:----:|
 | 🐙 GitHub | [siddhant-tongia](https://github.com/siddhant-tongia) |
-| 💼 LinkedIn | *Coming Soon* |
-| 🐦 Twitter / X | *Coming Soon* |
-| 📧 Email | *Coming Soon* |
+| 💼 LinkedIn | [Siddhant Tongia](https://www.linkedin.com/in/siddhant-tongia-32544a3a0/) |
+| 📧 Email | [tongiasiddhant42@gmail.com](mailto:tongiasiddhant42@gmail.com) |
 
 </div>
 
