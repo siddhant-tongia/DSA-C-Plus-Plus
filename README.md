@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-74-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-77-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **74+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **77+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,13 +22,13 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **74 problems solved** across **11 topics** — and counting!
+> **77 problems solved** across **11 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
 | 01 | [Fundamentals and Math](./01-Fundamentals-and-Math) | 9 | ✅ Done |
 | 02 | [Arrays Basics](./02-Arrays-Basics) | 7 | ✅ Done |
-| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 4 | ✅ Done |
+| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 7 | ✅ Done |
 | 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 4 | ✅ Done |
 | 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 12 | ✅ Done |
 | 06 | [Binary Search on Answers](./06-Binary-Search-on-Answers) | 3 | ✅ Done |
@@ -37,7 +37,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 09 | [2D Arrays](./09-2D_Arrays) | 8 | ✅ Done |
 | 10 | [Recursion Basics](./10-Recursion_Basics) | 8 | ✅ Done |
 | 11 | [Advanced Backtracking Techniques](./11-Advanced-Backtracking-Techniques) | 6 | ✅ Done |
-| | **Total** | **74** | 🏆 |
+| | **Total** | **77** | 🏆 |
 
 ---
 
@@ -48,7 +48,7 @@ DSA-C-Plus-Plus/
 │
 ├── 📁 01-Fundamentals-and-Math/       # 9 problems  — Basics, patterns, number theory
 ├── 📁 02-Arrays-Basics/               # 7 problems  — Core array operations
-├── 📁 03-Sorting-Algorithms/          # 4 problems  — Classic sorting techniques
+├── 📁 03-Sorting-Algorithms/          # 7 problems  — Classic sorting techniques
 ├── 📁 04-Searching-and-Binary-Search/ # 4 problems  — Linear & binary search variants
 ├── 📁 05-Advanced-Array-Techniques/   # 12 problems — Two pointers, sliding window, etc.
 ├── 📁 06-Binary-Search-on-Answers/    # 3 problems  — Optimization via binary search
@@ -71,6 +71,9 @@ DSA-C-Plus-Plus/
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Merge Sort
+- Quick Sort
+- Inversion Count
 - Dutch National Flag Algorithm (Sort 0s, 1s, 2s)
 
 </details>
