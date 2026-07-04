@@ -10,6 +10,9 @@
 | 2 | Insertion Sort | `insertionsort.cpp` | Easy | Shift & Insert in Sorted Prefix | O(n²) | O(1) |
 | 3 | Selection Sort | `selectionsort.cpp` | Easy | Find Min & Swap to Front | O(n²) | O(1) |
 | 4 | Sort 0s 1s 2s (Dutch National Flag) | `sort_012_DNF.cpp` | Medium | Three-Way Partitioning (DNF) | O(n) | O(1) |
+| 5 | Merge Sort | `mergesort.cpp` | Medium | Divide and Conquer | O(n log n) | O(n) |
+| 6 | Quick Sort | `quicksort.cpp` | Medium | Divide and Conquer | O(n log n) | O(log n) |
+| 7 | Inversion Count | `inversioncount.cpp` | Hard | Modified Merge Sort | O(n log n) | O(n) |
 
 ## 📊 Sorting Algorithm Comparison
 
@@ -19,8 +22,8 @@
 | **Insertion Sort** | O(n) | O(n²) | O(n²) | O(1) | ✅ Yes | ✅ Yes | Excellent for small / nearly-sorted data |
 | **Selection Sort** | O(n²) | O(n²) | O(n²) | O(1) | ❌ No | ❌ No | Always makes O(n) swaps; not adaptive |
 | **Dutch National Flag** | O(n) | O(n) | O(n) | O(1) | ✅ Yes | — | Specialised 3-way partition for {0, 1, 2} |
-
-> 💡 *For reference, production sorts like **Merge Sort** (O(n log n), stable) and **Quick Sort** (O(n log n) avg, in-place) are covered in later modules.*
+| **Merge Sort** | O(n log n) | O(n log n) | O(n log n) | O(n) | ✅ Yes | ❌ No | Consistent performance, but requires extra space |
+| **Quick Sort** | O(n log n) | O(n log n) | O(n²) | O(log n) | ❌ No | ❌ No | Often fastest in practice (cache-friendly in-place sorting) |
 
 ## 🧠 Key Concepts
 
