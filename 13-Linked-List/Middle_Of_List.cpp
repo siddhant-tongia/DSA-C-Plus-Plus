@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 struct ListNode {
     int val;
     ListNode *next;
@@ -32,7 +32,7 @@ int main(){
     Solution obj;
     ListNode* mid = obj.middleNode(head);
 
-    std::cout << mid->val << "\n";
+    cout << mid->val << "\n";
 
     return 0;
 }
