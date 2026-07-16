@@ -1,6 +1,6 @@
 # 10 — Recursion Basics
 
-> Trust the leap of faith — recursion teaches you to solve complex problems by breaking them into elegant, self-similar subproblems. It's the foundation for trees, graphs, dynamic programming, and backtracking.
+> Trust the leap of faith — recursion teaches you to solve complex problems by breaking them into elegant, self-similar subproblems. It's the foundation for trees, graphs, dynamic programming, and backtracking
 
 ## 📋 Problems
 
