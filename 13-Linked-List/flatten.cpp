@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Node {
+class Node{
 public:
     int val;
     Node* prev;
@@ -9,7 +9,7 @@ public:
     Node* child;
 };
 
-class Solution {
+class Solution{
 public:
     Node* flatten(Node* head){
         if(head == NULL){
