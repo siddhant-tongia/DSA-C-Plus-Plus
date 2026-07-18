@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-77-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-89-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **77+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **89+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **77 problems solved** across **11 topics** — and counting!
+> **89 problems & 20 OOP concepts** across **13 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -37,7 +37,9 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 09 | [2D Arrays](./09-2D_Arrays) | 8 | ✅ Done |
 | 10 | [Recursion Basics](./10-Recursion_Basics) | 8 | ✅ Done |
 | 11 | [Advanced Backtracking Techniques](./11-Advanced-Backtracking-Techniques) | 6 | ✅ Done |
-| | **Total** | **77** | 🏆 |
+| 12 | [OOP Concepts](./12-OOPS) | 20 concepts | ✅ Done |
+| 13 | [Linked List](./13-Linked-List) | 12 | ✅ Done |
+| | **Total** | **89 + 20 concepts** | 🏆 |
 
 ---
 
@@ -57,6 +59,8 @@ DSA-C-Plus-Plus/
 ├── 📁 09-2D_Arrays/                   # 8 problems  — Matrix operations & traversals
 ├── 📁 10-Recursion_Basics/            # 8 problems  — Recursive thinking & backtracking
 ├── 📁 11-Advanced-Backtracking-Techniques/ # 6 problems — Complex combinatorial puzzles
+├── 📁 12-OOPS/                             # 20 concepts — Object-Oriented Programming notes
+├── 📁 13-Linked-List/                      # 12 problems — Singly, Doubly, Circular linked list operations & algorithms
 │
 └── 📄 README.md                       # You are here!
 ```
@@ -167,6 +171,43 @@ DSA-C-Plus-Plus/
 
 </details>
 
+<details>
+<summary><b>🏗️ Object-Oriented Programming</b></summary>
+
+- Classes & Objects
+- Access Specifiers (public, protected, private)
+- Encapsulation & Data Hiding
+- Constructors (Default, Parameterized, Copy)
+- `this` Pointer & Method Chaining
+- Shallow Copy vs Deep Copy
+- Destructors & Resource Management
+- Inheritance (Single, Multilevel, Multiple, Hierarchical, Hybrid)
+- Polymorphism (Compile-time & Runtime)
+- Function Overloading & Overriding
+- Virtual Functions & vtable
+- Abstraction & Abstract Classes
+- Static Keyword (Members, Functions, Local Variables)
+
+</details>
+
+<details>
+<summary><b>🔗 Linked Lists</b></summary>
+
+- Linked List Implementation (Push, Pop, Insert)
+- Middle of Linked List (Slow & Fast Pointer)
+- Reverse Linked List (Iterative)
+- Cycle Detection (Floyd's Algorithm)
+- Detect Cycle Start Node
+- Merge Two Sorted Lists (Recursive)
+- Doubly Linked List Implementation
+- Circular Linked List Implementation
+- Copy List with Random Pointer
+- Swap Nodes in Pairs (Iterative)
+- Reverse Nodes in K-Group (Recursive)
+- Flatten Multilevel Doubly Linked List
+
+</details>
+
 ---
 
 ## ⚙️ How to Run
@@ -196,7 +237,7 @@ g++ -std=c++17 filename.cpp -o output.exe
 
 Upcoming topics to be added as the journey continues:
 
-- [ ] 🔗 Linked Lists (Singly, Doubly, Circular)
+- [x] 🔗 Linked Lists (Singly, Doubly, Circular)
 - [ ] 📚 Stacks & Queues
 - [ ] 🌳 Trees & Binary Search Trees
 - [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
