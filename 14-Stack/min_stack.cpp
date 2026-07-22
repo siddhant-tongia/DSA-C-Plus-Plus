@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stack>
-#include <algorithm> /
+#include <algorithm> 
 
 using namespace std;
 
@@ -39,17 +39,16 @@ int main(){
 
     MinStack minSt;
     
-    // Simulating the LeetCode example
     minSt.push(-2);
     minSt.push(0);
     minSt.push(-3);
     
-    cout << "Current Min: " << minSt.getMin() << endl; // Should output -3
+    cout << "Current Min: " << minSt.getMin() << endl; 
     
     minSt.pop();
     
-    cout << "Current Top: " << minSt.top() << endl;    // Should output 0
-    cout << "Current Min: " << minSt.getMin() << endl; // Should output -2
+    cout << "Current Top: " << minSt.top() << endl;   
+    cout << "Current Min: " << minSt.getMin() << endl; 
 
     return 0;
 }
