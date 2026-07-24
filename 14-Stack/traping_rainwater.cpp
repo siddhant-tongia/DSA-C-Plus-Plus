@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include<vector>
 #include<algorithm>
 using namespace std;
@@ -26,5 +26,42 @@ int main()
     int result = trap(boundaries);
 
     cout<<result;
+return 0;
+} */
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int trap(vector<int>& height){
+    int ans = 0;
+    int n = height.size();
+
+    int l = 0 , r = n-1;
+
+    int lmax = 0;
+    int rmax = 0;
+
+    while(l < r){
+        lmax = max(lmax,height[l]);
+        rmax = max(rmax,height[r]);
+
+        if(lmax < rmax){
+            ans += lmax - height[l];
+            l++;
+        }else{
+            ans += rmax - height[r];
+            r--;
+        }
+    }
+return ans;
+}
+
+int main(){
+    vector<int> height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
+    int total_water = trap(height);
+    cout << "Total water trapped: " << total_water << endl;
 return 0;
 }
