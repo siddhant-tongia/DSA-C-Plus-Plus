@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-89-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-103-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **89+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **103+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **89 problems & 20 OOP concepts** across **13 topics** — and counting!
+> **103 problems & 20 OOP concepts** across **14 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -30,7 +30,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 02 | [Arrays Basics](./02-Arrays-Basics) | 7 | ✅ Done |
 | 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 7 | ✅ Done |
 | 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 4 | ✅ Done |
-| 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 12 | ✅ Done |
+| 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 13 | ✅ Done |
 | 06 | [Binary Search on Answers](./06-Binary-Search-on-Answers) | 3 | ✅ Done |
 | 07 | [Strings and Char Arrays](./07-Strings-and-Char-Arrays) | 6 | ✅ Done |
 | 08 | [Maths for DSA](./08-Maths_For_DSA) | 7 | ✅ Done |
@@ -38,8 +38,9 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 10 | [Recursion Basics](./10-Recursion_Basics) | 8 | ✅ Done |
 | 11 | [Advanced Backtracking Techniques](./11-Advanced-Backtracking-Techniques) | 6 | ✅ Done |
 | 12 | [OOP Concepts](./12-OOPS) | 20 concepts | ✅ Done |
-| 13 | [Linked List](./13-Linked-List) | 12 | ✅ Done |
-| | **Total** | **89 + 20 concepts** | 🏆 |
+| 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
+| 14 | [Stack](./14-Stack) | 12 | ✅ Done |
+| | **Total** | **103 + 20 concepts** | 🏆 |
 
 ---
 
@@ -52,7 +53,7 @@ DSA-C-Plus-Plus/
 ├── 📁 02-Arrays-Basics/               # 7 problems  — Core array operations
 ├── 📁 03-Sorting-Algorithms/          # 7 problems  — Classic sorting techniques
 ├── 📁 04-Searching-and-Binary-Search/ # 4 problems  — Linear & binary search variants
-├── 📁 05-Advanced-Array-Techniques/   # 12 problems — Two pointers, sliding window, etc.
+├── 📁 05-Advanced-Array-Techniques/   # 13 problems — Two pointers, sliding window, etc.
 ├── 📁 06-Binary-Search-on-Answers/    # 3 problems  — Optimization via binary search
 ├── 📁 07-Strings-and-Char-Arrays/     # 6 problems  — String manipulation & algorithms
 ├── 📁 08-Maths_For_DSA/               # 7 problems  — Mathematical foundations for DSA
@@ -60,7 +61,8 @@ DSA-C-Plus-Plus/
 ├── 📁 10-Recursion_Basics/            # 8 problems  — Recursive thinking & backtracking
 ├── 📁 11-Advanced-Backtracking-Techniques/ # 6 problems — Complex combinatorial puzzles
 ├── 📁 12-OOPS/                             # 20 concepts — Object-Oriented Programming notes
-├── 📁 13-Linked-List/                      # 12 problems — Singly, Doubly, Circular linked list operations & algorithms
+├── 📁 13-Linked-List/                      # 13 problems — Singly, Doubly, Circular linked list operations & algorithms
+├── 📁 14-Stack/                            # 12 problems — Stack implementation, monotonic stack, parentheses
 │
 └── 📄 README.md                       # You are here!
 ```
@@ -205,6 +207,18 @@ DSA-C-Plus-Plus/
 - Swap Nodes in Pairs (Iterative)
 - Reverse Nodes in K-Group (Recursive)
 - Flatten Multilevel Doubly Linked List
+- LRU Cache Implementation
+
+</details>
+
+<details>
+<summary><b>📚 Stacks</b></summary>
+
+- Stack Implementation (Array/Vector & Linked List)
+- Valid Parentheses
+- Next Greater Element / Right Greater
+- Previous Smaller Element
+- Stock Span Problem
 
 </details>
 
@@ -238,7 +252,8 @@ g++ -std=c++17 filename.cpp -o output.exe
 Upcoming topics to be added as the journey continues:
 
 - [x] 🔗 Linked Lists (Singly, Doubly, Circular)
-- [ ] 📚 Stacks & Queues
+- [x] 📚 Stacks
+- [ ] 🚶 Queues
 - [ ] 🌳 Trees & Binary Search Trees
 - [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
 - [ ] 💡 Dynamic Programming
