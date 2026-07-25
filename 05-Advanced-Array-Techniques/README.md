@@ -6,18 +6,19 @@
 
 | # | Problem | File | Difficulty | Approach | Time | Space |
 |---|---------|------|-----------|----------|------|-------|
-| 1 | Container With Most Water | `ContainerwithMostWaterProblem.cpp` | Medium | Two Pointer (Greedy Shrink) | O(n) | O(1) |
-| 2 | Find the Duplicate Number | `FindDuplicate.cpp` | Medium | Floyd's Cycle Detection (Tortoise & Hare) | O(n) | O(1) |
-| 3 | 4Sum Problem | `Four_sum.cpp` | Hard | Sort + Two Pointer (Nested Loops) | O(n³) | O(1) |
-| 4 | Merge Sorted Array | `MergeSortedArray.cpp` | Easy | Back-Fill from End (Three Pointer) | O(m + n) | O(1) |
-| 5 | Majority Element (Boyer-Moore) | `Moorevoting.cpp` | Easy | Boyer-Moore Voting Algorithm | O(n) | O(1) |
-| 6 | Next Permutation | `NextPermutation.cpp` | Medium | 3-Step: Find Dip → Swap → Reverse | O(n) | O(1) |
-| 7 | Subarray Sum Equals K | `SubArraySumEqualToK.cpp` | Medium | Prefix Sum + HashMap | O(n) | O(n) |
-| 8 | 3Sum Problem | `Three_sum.cpp` | Medium | Sort + Two Pointer | O(n²) | O(1) |
-| 9 | Two Sum | `Two_sum.cpp` | Easy | HashMap (Value → Index) | O(n) | O(n) |
-| 10 | Maximum Subarray (Kadane's) | `kaden.cpp` | Medium | Kadane's Algorithm | O(n) | O(1) |
-| 11 | Majority Element (Brute Force) | `majorityelement.cpp` | Easy | Nested Loop / Count Occurrences | O(n²) | O(1) |
-| 12 | Majority Element II (Sorting) | `majorityelement2.cpp` | Medium | Sort + Linear Scan | O(n log n) | O(1) |
+| 1 | Container With Most Water | `container_with_most_water_problem.cpp` | Medium | Two Pointer (Greedy Shrink) | O(n) | O(1) |
+| 2 | Find the Duplicate Number | `find_duplicate.cpp` | Medium | Floyd's Cycle Detection (Tortoise & Hare) | O(n) | O(1) |
+| 3 | 4Sum Problem | `four_sum.cpp` | Hard | Sort + Two Pointer (Nested Loops) | O(n³) | O(1) |
+| 4 | Merge Sorted Array | `merge_sorted_array.cpp` | Easy | Back-Fill from End (Three Pointer) | O(m + n) | O(1) |
+| 5 | Majority Element (Boyer-Moore) | `moore_voting.cpp` | Easy | Boyer-Moore Voting Algorithm | O(n) | O(1) |
+| 6 | Next Permutation | `next_permutation.cpp` | Medium | 3-Step: Find Dip → Swap → Reverse | O(n) | O(1) |
+| 7 | Subarray Sum Equals K | `subarray_sum_equal_to_k.cpp` | Medium | Prefix Sum + HashMap | O(n) | O(n) |
+| 8 | 3Sum Problem | `three_sum.cpp` | Medium | Sort + Two Pointer | O(n²) | O(1) |
+| 9 | Two Sum | `two_sum.cpp` | Easy | HashMap (Value → Index) | O(n) | O(n) |
+| 10 | Maximum Subarray (Kadane's) | `kadanes_algorithm.cpp` | Medium | Kadane's Algorithm | O(n) | O(1) |
+| 11 | Majority Element (Brute Force) | `majority_element.cpp` | Easy | Nested Loop / Count Occurrences | O(n²) | O(1) |
+| 12 | Majority Element II (Sorting) | `majority_element_2.cpp` | Medium | Sort + Linear Scan | O(n log n) | O(1) |
+| 13 | Trapping Rain Water | `rainwater_traping.cpp` | Hard | Two Pointers | O(n) | O(1) |
 
 ## 🧠 Key Concepts
 
