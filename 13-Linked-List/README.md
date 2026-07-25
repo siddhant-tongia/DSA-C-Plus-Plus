@@ -18,6 +18,7 @@
 | 10 | Swap Nodes in Pairs | `swap_pairs.cpp` | Medium | Iterative (Three Pointers) | O(N) | O(1) |
 | 11 | Reverse Nodes in K-Group | `reverse_k_group.cpp` | Hard | Recursive (Reverse K then Recurse) | O(N) | O(N/K) |
 | 12 | Flatten Multilevel Doubly Linked List | `flatten.cpp` | Medium | Recursive Flattening (DFS) | O(N) | O(N) |
+| 13 | LRU Cache | `lru_cache.cpp` | Medium | Hash Map + Doubly Linked List | O(1) | O(Capacity) |
 
 > **N** = total nodes, **M** = nodes in second list. Space for recursive solutions includes the call stack. Reverse K-Group recursion depth is O(N/K).
 
