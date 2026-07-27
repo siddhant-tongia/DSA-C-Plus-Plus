@@ -224,6 +224,14 @@ DSA-C-Plus-Plus/
 
 </details>
 
+<details>
+<summary><b>🚶 Queues</b></summary>
+
+- Queue Implementation (Linked List)
+- Circular Queue Implementation (Array)
+
+</details>
+
 ---
 
 ## ⚙️ How to Run
@@ -255,7 +263,7 @@ Upcoming topics to be added as the journey continues:
 
 - [x] 🔗 Linked Lists (Singly, Doubly, Circular)
 - [x] 📚 Stacks
-- [x] 🚶 Queues
+- [ ] 🚶 Queues
 - [ ] 🌳 Trees & Binary Search Trees
 - [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
 - [ ] 💡 Dynamic Programming
