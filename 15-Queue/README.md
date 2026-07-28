@@ -8,6 +8,7 @@
 |---|---------|------|-----------|----------|------|-------|
 | 1 | Queue Implementation (List) | `queue_implementation_from_list.cpp` | Easy | Linked List-based (Push, Pop) | O(1) | O(N) |
 | 2 | Circular Queue Implementation (Array) | `circular_queue_implementation_from_array.cpp` | Easy | Array-based with wrapping indices | O(1) | O(N) |
+| 3 | Queue Implementation (Stack) | `queue_implementation_using_stack.cpp` | Easy | Using two Stacks | O(N) | O(N) |
 
 ## 🧠 Key Concepts
 
