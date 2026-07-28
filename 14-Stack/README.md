@@ -18,6 +18,7 @@
 | 10 | The Celebrity Problem | `celebrity_problem.cpp` | Medium | Stack Elimination | O(N) | O(N) |
 | 11 | Next Greater Element (Circular) | `next_greater_element_in_loop.cpp` | Medium | Monotonic Decreasing Stack (2N loop) | O(N) | O(N) |
 | 12 | Trapping Rain Water | `traping_rainwater.cpp` | Hard | Monotonic Decreasing Stack | O(N) | O(N) |
+| 13 | Stack Implementation (Queue) | `stack_implementation_using_queue.cpp` | Easy | Using two Queues | O(N) | O(N) |
 
 > **N** = number of elements. Time complexity for monotonic stack problems is O(N) overall because each element is pushed and popped at most once.
 
