@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-105-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-107-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **105+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **107+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **105 problems & 20 OOP concepts** across **15 topics** — and counting!
+> **107 problems & 20 OOP concepts** across **15 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -39,9 +39,9 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 11 | [Advanced Backtracking Techniques](./11-Advanced-Backtracking-Techniques) | 6 | ✅ Done |
 | 12 | [OOP Concepts](./12-OOPS) | 20 concepts | ✅ Done |
 | 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
-| 14 | [Stack](./14-Stack) | 12 | ✅ Done |
-| 15 | [Queue](./15-Queue) | 2 | ✅ Done |
-| | **Total** | **105 + 20 concepts** | 🏆 |
+| 14 | [Stack](./14-Stack) | 13 | ✅ Done |
+| 15 | [Queue](./15-Queue) | 3 | ✅ Done |
+| | **Total** | **107 + 20 concepts** | 🏆 |
 
 ---
 
@@ -63,8 +63,8 @@ DSA-C-Plus-Plus/
 ├── 📁 11-Advanced-Backtracking-Techniques/ # 6 problems — Complex combinatorial puzzles
 ├── 📁 12-OOPS/                             # 20 concepts — Object-Oriented Programming notes
 ├── 📁 13-Linked-List/                      # 13 problems — Singly, Doubly, Circular linked list operations & algorithms
-├── 📁 14-Stack/                            # 12 problems — Stack implementation, monotonic stack, parentheses
-├── 📁 15-Queue/                            # 2 problems  — Queue implementation, Circular Queue
+├── 📁 14-Stack/                            # 13 problems — Stack implementation, monotonic stack, parentheses
+├── 📁 15-Queue/                            # 3 problems  — Queue implementation, Circular Queue
 │
 └── 📄 README.md                       # You are here!
 ```
@@ -216,7 +216,7 @@ DSA-C-Plus-Plus/
 <details>
 <summary><b>📚 Stacks</b></summary>
 
-- Stack Implementation (Array/Vector & Linked List)
+- Stack Implementation (Array/Vector, Linked List, & Queue)
 - Valid Parentheses
 - Next Greater Element / Right Greater
 - Previous Smaller Element
@@ -227,7 +227,7 @@ DSA-C-Plus-Plus/
 <details>
 <summary><b>🚶 Queues</b></summary>
 
-- Queue Implementation (Linked List)
+- Queue Implementation (Linked List & Stack)
 - Circular Queue Implementation (Array)
 
 </details>
