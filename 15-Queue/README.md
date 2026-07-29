@@ -9,6 +9,8 @@
 | 1 | Queue Implementation (List) | `queue_implementation_from_list.cpp` | Easy | Linked List-based (Push, Pop) | O(1) | O(N) |
 | 2 | Circular Queue Implementation (Array) | `circular_queue_implementation_from_array.cpp` | Easy | Array-based with wrapping indices | O(1) | O(N) |
 | 3 | Queue Implementation (Stack) | `queue_implementation_using_stack.cpp` | Easy | Using two Stacks | O(N) | O(N) |
+| 4 | First Unique Character in a String | `first_unique_char_in_string.cpp` | Easy | Using HashMap and Queue | O(N) | O(N) |
+| 5 | Sliding Window Maximum | `sliding_window_maximum.cpp` | Hard | Using Deque (Monotonic Queue) | O(N) | O(K) |
 
 ## 🧠 Key Concepts
 
