@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-107-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-109-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **107+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **109+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **107 problems & 20 OOP concepts** across **15 topics** — and counting!
+> **109 problems & 20 OOP concepts** across **15 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -40,8 +40,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 12 | [OOP Concepts](./12-OOPS) | 20 concepts | ✅ Done |
 | 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
-| 15 | [Queue](./15-Queue) | 3 | ✅ Done |
-| | **Total** | **107 + 20 concepts** | 🏆 |
+| 15 | [Queue](./15-Queue) | 5 | ✅ Done |
+| | **Total** | **109 + 20 concepts** | 🏆 |
 
 ---
 
@@ -64,7 +64,7 @@ DSA-C-Plus-Plus/
 ├── 📁 12-OOPS/                             # 20 concepts — Object-Oriented Programming notes
 ├── 📁 13-Linked-List/                      # 13 problems — Singly, Doubly, Circular linked list operations & algorithms
 ├── 📁 14-Stack/                            # 13 problems — Stack implementation, monotonic stack, parentheses
-├── 📁 15-Queue/                            # 3 problems  — Queue implementation, Circular Queue
+├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 │
 └── 📄 README.md                       # You are here!
 ```
@@ -229,6 +229,8 @@ DSA-C-Plus-Plus/
 
 - Queue Implementation (Linked List & Stack)
 - Circular Queue Implementation (Array)
+- First Unique Character in a String
+- Sliding Window Maximum (Monotonic Queue)
 
 </details>
 
