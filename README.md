@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-110-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-111-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
@@ -22,13 +22,13 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **110 problems & 20 OOP concepts** across **15 topics** — and counting!
+> **111 problems & 20 OOP concepts** across **15 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
 | 01 | [Fundamentals and Math](./01-Fundamentals-and-Math) | 9 | ✅ Done |
 | 02 | [Arrays Basics](./02-Arrays-Basics) | 7 | ✅ Done |
-| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 7 | ✅ Done |
+| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 8 | ✅ Done |
 | 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 4 | ✅ Done |
 | 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 14 | ✅ Done |
 | 06 | [Binary Search on Answers](./06-Binary-Search-on-Answers) | 3 | ✅ Done |
@@ -41,7 +41,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
-| | **Total** | **110 + 20 concepts** | 🏆 |
+| | **Total** | **111 + 20 concepts** | 🏆 |
 
 ---
 
@@ -52,7 +52,7 @@ DSA-C-Plus-Plus/
 │
 ├── 📁 01-Fundamentals-and-Math/       # 9 problems  — Basics, patterns, number theory
 ├── 📁 02-Arrays-Basics/               # 7 problems  — Core array operations
-├── 📁 03-Sorting-Algorithms/          # 7 problems  — Classic sorting techniques
+├── 📁 03-Sorting-Algorithms/          # 8 problems  — Classic sorting techniques
 ├── 📁 04-Searching-and-Binary-Search/ # 4 problems  — Linear & binary search variants
 ├── 📁 05-Advanced-Array-Techniques/   # 14 problems — Two pointers, sliding window, etc.
 ├── 📁 06-Binary-Search-on-Answers/    # 3 problems  — Optimization via binary search
@@ -83,6 +83,7 @@ DSA-C-Plus-Plus/
 - Quick Sort
 - Inversion Count
 - Dutch National Flag Algorithm (Sort 0s, 1s, 2s)
+- Kth Largest Element in an Array (Min Heap)
 
 </details>
 

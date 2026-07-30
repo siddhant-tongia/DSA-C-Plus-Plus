@@ -13,6 +13,7 @@
 | 5 | Merge Sort | `mergesort.cpp` | Medium | Divide and Conquer | O(n log n) | O(n) |
 | 6 | Quick Sort | `quicksort.cpp` | Medium | Divide and Conquer | O(n log n) | O(log n) |
 | 7 | Inversion Count | `inversioncount.cpp` | Hard | Modified Merge Sort | O(n log n) | O(n) |
+| 8 | Kth Largest Element | `kth_largest_element.cpp` | Medium | Min Heap (Priority Queue) | O(n log k) | O(k) |
 
 ## 📊 Sorting Algorithm Comparison
 
