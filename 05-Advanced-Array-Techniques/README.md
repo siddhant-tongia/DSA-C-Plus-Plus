@@ -19,6 +19,7 @@
 | 11 | Majority Element (Brute Force) | `majority_element.cpp` | Easy | Nested Loop / Count Occurrences | O(n²) | O(1) |
 | 12 | Majority Element II (Sorting) | `majority_element_2.cpp` | Medium | Sort + Linear Scan | O(n log n) | O(1) |
 | 13 | Trapping Rain Water | `rainwater_traping.cpp` | Hard | Two Pointers | O(n) | O(1) |
+| 14 | Gas Station | `gas_station.cpp` | Medium | Greedy Approach | O(n) | O(1) |
 
 ## 🧠 Key Concepts
 
