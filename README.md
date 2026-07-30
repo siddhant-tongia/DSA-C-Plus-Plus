@@ -101,10 +101,15 @@ DSA-C-Plus-Plus/
 - Two Sum / Three Sum / Four Sum
 - Kadane's Algorithm (Maximum Subarray Sum)
 - Next Permutation
-- Boyer-Moore Majority Voting Algorithm
+- Boyer-Moore Majority Voting Algorithm (Majority Element I & II)
 - Container With Most Water
 - Move Zeroes / Rearrange Elements
 - Stock Buy & Sell
+- Find the Duplicate Number
+- Gas Station Problem
+- Merge Sorted Arrays
+- Trapping Rain Water
+- Subarray Sum Equals K
 
 </details>
 
@@ -265,7 +270,7 @@ Upcoming topics to be added as the journey continues:
 
 - [x] 🔗 Linked Lists (Singly, Doubly, Circular)
 - [x] 📚 Stacks
-- [ ] 🚶 Queues
+- [x] 🚶 Queues
 - [ ] 🌳 Trees & Binary Search Trees
 - [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
 - [ ] 💡 Dynamic Programming
