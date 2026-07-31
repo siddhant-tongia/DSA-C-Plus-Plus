@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-111-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-112-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
@@ -22,14 +22,14 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **111 problems & 20 OOP concepts** across **15 topics** — and counting!
+> **112 problems & 20 OOP concepts** across **15 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
 | 01 | [Fundamentals and Math](./01-Fundamentals-and-Math) | 9 | ✅ Done |
 | 02 | [Arrays Basics](./02-Arrays-Basics) | 7 | ✅ Done |
 | 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 8 | ✅ Done |
-| 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 4 | ✅ Done |
+| 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 5 | ✅ Done |
 | 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 14 | ✅ Done |
 | 06 | [Binary Search on Answers](./06-Binary-Search-on-Answers) | 3 | ✅ Done |
 | 07 | [Strings and Char Arrays](./07-Strings-and-Char-Arrays) | 6 | ✅ Done |
@@ -41,7 +41,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
-| | **Total** | **111 + 20 concepts** | 🏆 |
+| | **Total** | **112 + 20 concepts** | 🏆 |
 
 ---
 
@@ -53,7 +53,7 @@ DSA-C-Plus-Plus/
 ├── 📁 01-Fundamentals-and-Math/       # 9 problems  — Basics, patterns, number theory
 ├── 📁 02-Arrays-Basics/               # 7 problems  — Core array operations
 ├── 📁 03-Sorting-Algorithms/          # 8 problems  — Classic sorting techniques
-├── 📁 04-Searching-and-Binary-Search/ # 4 problems  — Linear & binary search variants
+├── 📁 04-Searching-and-Binary-Search/ # 5 problems  — Linear & binary search variants
 ├── 📁 05-Advanced-Array-Techniques/   # 14 problems — Two pointers, sliding window, etc.
 ├── 📁 06-Binary-Search-on-Answers/    # 3 problems  — Optimization via binary search
 ├── 📁 07-Strings-and-Char-Arrays/     # 6 problems  — String manipulation & algorithms
@@ -93,6 +93,8 @@ DSA-C-Plus-Plus/
 - Binary Search (Iterative & Recursive)
 - Peak Element Finding
 - Search in Rotated Sorted Array
+- Single Element in a Sorted Array
+- Find Minimum in Rotated Sorted Array
 
 </details>
 
