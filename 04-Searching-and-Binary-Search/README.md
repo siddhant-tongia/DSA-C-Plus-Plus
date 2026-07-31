@@ -6,10 +6,11 @@
 
 | # | Problem | File | Difficulty | Approach | Time | Space |
 |---|---------|------|-----------|----------|------|-------|
-| 1 | Binary Search | `binarysearch.cpp` | Easy | Iterative + Recursive Binary Search | O(log n) | O(1) / O(log n) |
-| 2 | Peak Index in Mountain Array | `peakindex.cpp` | Medium | Modified Binary Search | O(log n) | O(1) |
-| 3 | Search in Rotated Sorted Array | `rotatedsortedarray.cpp` | Medium | Binary Search with Pivot Detection | O(log n) | O(1) |
-| 4 | Single Element in Sorted Array | `singleelement.cpp` | Medium | XOR / Binary Search on Index Parity | O(log n) | O(1) |
+| 1 | Binary Search | `binary_search.cpp` | Easy | Iterative + Recursive Binary Search | O(log n) | O(1) / O(log n) |
+| 2 | Peak Index in Mountain Array | `peak_index.cpp` | Medium | Modified Binary Search | O(log n) | O(1) |
+| 3 | Search in Rotated Sorted Array | `rotated_sorted_array.cpp` | Medium | Binary Search with Pivot Detection | O(log n) | O(1) |
+| 4 | Single Element in Sorted Array | `single_element.cpp` | Medium | XOR / Binary Search on Index Parity | O(log n) | O(1) |
+| 5 | Find Minimum in Rotated Sorted Array | `find_minimum_in_rotated_sorted_array.cpp` | Medium | Binary Search on Rotated Array | O(log n) | O(1) |
 
 ## 🧠 Key Concepts
 
