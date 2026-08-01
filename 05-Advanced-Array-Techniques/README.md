@@ -20,6 +20,7 @@
 | 12 | Majority Element II (Sorting) | `majority_element_2.cpp` | Medium | Sort + Linear Scan | O(n log n) | O(1) |
 | 13 | Trapping Rain Water | `rainwater_traping.cpp` | Hard | Two Pointers | O(n) | O(1) |
 | 14 | Gas Station | `gas_station.cpp` | Medium | Greedy Approach | O(n) | O(1) |
+| 15 | Longest Consecutive Sequence | `longest_consecutive_elements.cpp` | Medium | HashSet | O(n) | O(n) |
 
 ## 🧠 Key Concepts
 
@@ -30,6 +31,7 @@
 - **Prefix Sum + HashMap** — Transforms "find subarrays with sum K" into a lookup problem: store cumulative sums and check if `prefixSum - K` exists in the map.
 - **Back-Fill Merge** — Merging into an array with trailing space by filling from the end avoids shifting elements, achieving O(m + n) with O(1) extra space.
 - **K-Sum Generalisation** — Two Sum → 3Sum → 4Sum follows a recursive pattern: fix one element, reduce to (K-1)Sum. The base case is always Two Pointer on a sorted array.
+- **HashSet for Sequence Tracking** — Using a hash set to check for the start of a consecutive sequence (ensuring `num - 1` doesn't exist) allows counting sequences in O(n) time and space.
 
 ## 📌 Tips
 
