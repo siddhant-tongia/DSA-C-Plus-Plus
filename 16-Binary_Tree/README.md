@@ -10,6 +10,8 @@
 | 2 | Count of Nodes | `count_node.cpp` | Easy | Recursive DFS — left count + right count + 1 | O(N) | O(H) |
 | 3 | Height of Tree | `height_of_tree.cpp` | Easy | Recursive DFS — max(leftHt, rightHt) + 1 | O(N) | O(H) |
 | 4 | Sum of Nodes | `sum_of_node.cpp` | Easy | Recursive DFS — left sum + right sum + root data | O(N) | O(H) |
+| 5 | Identical Tree | `identical_tree.cpp` | Easy | Recursive DFS — compare structure & values simultaneously | O(N) | O(H) |
+| 6 | Subtree of Another Tree | `subtree_of_another_tree.cpp` | Easy | DFS + Identical check at each matching root | O(M×N) | O(H) |
 
 ## 🧠 Key Concepts
 
@@ -22,6 +24,8 @@
 - **Count of Nodes**: Recursively count nodes in left and right subtrees, then return `leftCount + rightCount + 1`. Base case: a `NULL` node returns `0`.
 - **Height of Tree**: Recursively compute the height of left and right subtrees, then return `max(leftHt, rightHt) + 1`. Base case: a `NULL` node has height `0`.
 - **Sum of Nodes**: Recursively sum the left and right subtrees, then return `leftSum + rightSum + root->data`. Base case: a `NULL` node contributes `0`.
+- **Identical Tree**: Two trees are identical if they have the same structure and every corresponding pair of nodes has equal values. Base case: both `NULL` → identical; one `NULL` → not identical.
+- **Subtree of Another Tree**: Tree `S` is a subtree of tree `T` if there exists a node in `T` such that the subtree rooted at that node is identical to `S`. Traverse `T` and run an identical check whenever `node->data == subRoot->data`.
 
 ## 📌 Tips
 
