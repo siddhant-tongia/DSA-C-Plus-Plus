@@ -32,27 +32,14 @@ void kthlevel(Node* root, int k){
     if(root == NULL){
         return;
     }
-    queue<pair<Node*,int>> q;
-    q.push({root,1});
-
-    while(q.size() > 0){
-        Node* curr = q.front().first;
-        int level = q.front().second;
-
-        q.pop();
-
-        if(level == k){
-            cout << curr->data << " ";
-        }
-        if(level < k){
-            if(curr->left != NULL){
-                q.push({curr->left,level+1});
-            }
-            if(curr->right != NULL){
-                q.push({curr->right,level+1});
-            }
-        }
+    if(k == 1){
+        cout << root->data << " ";
+        return;
     }
+
+    kthlevel(root->left,k-1);
+    kthlevel(root->right,k-1);
+    
 }
 
 int main()
