@@ -15,6 +15,8 @@
 | 7 | Diameter of Binary Tree | `diameter_of_tree.cpp` | Medium | Track max(leftHt + rightHt) while computing height | O(N) | O(H) |
 | 8 | Right View of Binary Tree | `right_view.cpp` | Medium | BFS level-order — print last node of each level | O(N) | O(W) |
 | 9 | Top View of Binary Tree | `top_view.cpp` | Medium | BFS + Horizontal Distance map — first node at each HD | O(N) | O(W) |
+| 10 | Kth Level of Tree | `kth_level.cpp` | Easy | Recursive DFS — decrement k and print node when k == 1 | O(N) | O(H) |
+| 11 | Lowest Common Ancestor | `lowest_common_ancestor_value.cpp` | Medium | Recursive DFS — search for p & q; root is LCA if both sides return non-null | O(N) | O(H) |
 
 ## 🧠 Key Concepts
 
@@ -32,6 +34,8 @@
 - **Diameter of Binary Tree**: The diameter is the longest path between any two nodes (measured in edges). It equals the maximum of `leftHeight + rightHeight` across all nodes. Compute it in O(N) by tracking the max sum during the height computation itself.
 - **Right View**: The right view of a binary tree contains the last node visible at each level when viewed from the right side. Use BFS and print the last node processed in each level (`i == levelSize - 1`).
 - **Top View**: The top view contains the first node visible at each horizontal distance (HD) when viewed from the top. Use BFS with `(node, HD)` pairs and a map — only record a node if its HD hasn't been seen before. The map's sorted keys give the left-to-right top view.
+- **Kth Level of Tree**: Traverse the tree keeping track of the current depth. When the target depth `k` is reached (or `k` decrements to 1), print or store the node.
+- **Lowest Common Ancestor (LCA)**: Find the deepest node that has both `p` and `q` as descendants (where a node can be a descendant of itself). Using DFS, if the current node is `p` or `q`, return it. If left and right subtrees both return non-null values, the current node is the LCA. Otherwise, pass the non-null value up the tree.
 
 ## 📌 Tips
 
