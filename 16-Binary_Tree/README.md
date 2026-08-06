@@ -17,7 +17,9 @@
 | 9 | Top View of Binary Tree | `top_view.cpp` | Medium | BFS + Horizontal Distance map — first node at each HD | O(N) | O(W) |
 | 10 | Kth Level of Tree | `kth_level.cpp` | Easy | Recursive DFS — decrement k and print node when k == 1 | O(N) | O(H) |
 | 11 | Lowest Common Ancestor | `lowest_common_ancestor_value.cpp` | Medium | Recursive DFS — search for p & q; root is LCA if both sides return non-null | O(N) | O(H) |
-
+| 12 | Binary Tree Paths | `binary_tree_paths.cpp` | Easy | DFS / Backtracking — accumulate node values in a string until a leaf node is reached | O(N) | O(H) |
+| 13 | Build Tree from Preorder & Inorder | `build_tree_from_preorder_and_inorder.cpp` | Medium | Divide & Conquer — use preorder to find root, inorder to split into left & right subtrees | O(N²) | O(N) |
+| 14 | Transform to Sum Tree | `transformation_to_sum_tree.cpp` | Medium | Postorder DFS — update node value with sum of left + right subtrees and return total sum | O(N) | O(H) |
 ## 🧠 Key Concepts
 
 - **Node Structure**: Each node stores data and two pointers — `left` and `right`. A `NULL` pointer indicates the absence of a child.
@@ -36,6 +38,9 @@
 - **Top View**: The top view contains the first node visible at each horizontal distance (HD) when viewed from the top. Use BFS with `(node, HD)` pairs and a map — only record a node if its HD hasn't been seen before. The map's sorted keys give the left-to-right top view.
 - **Kth Level of Tree**: Traverse the tree keeping track of the current depth. When the target depth `k` is reached (or `k` decrements to 1), print or store the node.
 - **Lowest Common Ancestor (LCA)**: Find the deepest node that has both `p` and `q` as descendants (where a node can be a descendant of itself). Using DFS, if the current node is `p` or `q`, return it. If left and right subtrees both return non-null values, the current node is the LCA. Otherwise, pass the non-null value up the tree.
+- **Binary Tree Paths**: Traverse from root to leaf using DFS, passing the path as a string. When a leaf is reached, add the path to the result vector.
+- **Build Tree from Preorder & Inorder**: The first element in `preorder` is always the root. Locate it in the `inorder` traversal to determine the sizes of the left and right subtrees, then recursively build them.
+- **Transform to Sum Tree**: In a sum tree, each node's value is updated to the sum of the values of nodes in its left and right subtrees plus its own original value. This is efficiently done using a postorder traversal.
 
 ## 📌 Tips
 
