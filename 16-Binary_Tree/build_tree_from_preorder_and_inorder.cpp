@@ -35,13 +35,12 @@ TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int& preidx, int l
 
     root->left = helper(preorder, inorder, preidx, left, inidx-1);
     root->right = helper(preorder, inorder, preidx, inidx+1, right);
-
-    return root;
+return root;
 }
 
 TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
     int preidx = 0;
-    return helper(preorder, inorder, preidx, 0, preorder.size()-1);
+return helper(preorder, inorder, preidx, 0, preorder.size()-1);
 }
 
 void printInorder(TreeNode* root){
