@@ -20,6 +20,7 @@
 | 12 | Binary Tree Paths | `binary_tree_paths.cpp` | Easy | DFS / Backtracking — accumulate node values in a string until a leaf node is reached | O(N) | O(H) |
 | 13 | Build Tree from Preorder & Inorder | `build_tree_from_preorder_and_inorder.cpp` | Medium | Divide & Conquer — use preorder to find root, inorder to split into left & right subtrees | O(N²) | O(N) |
 | 14 | Transform to Sum Tree | `transformation_to_sum_tree.cpp` | Medium | Postorder DFS — update node value with sum of left + right subtrees and return total sum | O(N) | O(H) |
+| 15 | Maximum Width of Binary Tree | `maximum_width_of_binary_tree.cpp` | Medium | BFS level-order — track index of nodes to find width | O(N) | O(W) |
 ## 🧠 Key Concepts
 
 - **Node Structure**: Each node stores data and two pointers — `left` and `right`. A `NULL` pointer indicates the absence of a child.
@@ -41,6 +42,7 @@
 - **Binary Tree Paths**: Traverse from root to leaf using DFS, passing the path as a string. When a leaf is reached, add the path to the result vector.
 - **Build Tree from Preorder & Inorder**: The first element in `preorder` is always the root. Locate it in the `inorder` traversal to determine the sizes of the left and right subtrees, then recursively build them.
 - **Transform to Sum Tree**: In a sum tree, each node's value is updated to the sum of the values of nodes in its left and right subtrees plus its own original value. This is efficiently done using a postorder traversal.
+- **Maximum Width of Binary Tree**: The width of a level is the number of nodes between the leftmost and rightmost nodes (inclusive). Use BFS and assign an index to each node. The width of a level is `last_node_index - first_node_index + 1`.
 
 ## 📌 Tips
 
