@@ -21,6 +21,9 @@
 | 13 | Build Tree from Preorder & Inorder | `build_tree_from_preorder_and_inorder.cpp` | Medium | Divide & Conquer — use preorder to find root, inorder to split into left & right subtrees | O(N²) | O(N) |
 | 14 | Transform to Sum Tree | `transformation_to_sum_tree.cpp` | Medium | Postorder DFS — update node value with sum of left + right subtrees and return total sum | O(N) | O(H) |
 | 15 | Maximum Width of Binary Tree | `maximum_width_of_binary_tree.cpp` | Medium | BFS level-order — track index of nodes to find width | O(N) | O(W) |
+| 16 | Flatten Binary Tree to Linked List | `flatten_binary_tree_to_linked_list.cpp` | Medium | Reverse postorder traversal, track previously visited node to build right-heavy tree | O(N) | O(H) |
+| 17 | Morris Inorder Traversal | `morris_inorder_traversal.cpp` | Hard | Threaded binary tree (using right child of inorder predecessor) to avoid recursion/stack | O(N) | O(1) |
+
 ## 🧠 Key Concepts
 
 - **Node Structure**: Each node stores data and two pointers — `left` and `right`. A `NULL` pointer indicates the absence of a child.
@@ -43,6 +46,8 @@
 - **Build Tree from Preorder & Inorder**: The first element in `preorder` is always the root. Locate it in the `inorder` traversal to determine the sizes of the left and right subtrees, then recursively build them.
 - **Transform to Sum Tree**: In a sum tree, each node's value is updated to the sum of the values of nodes in its left and right subtrees plus its own original value. This is efficiently done using a postorder traversal.
 - **Maximum Width of Binary Tree**: The width of a level is the number of nodes between the leftmost and rightmost nodes (inclusive). Use BFS and assign an index to each node. The width of a level is `last_node_index - first_node_index + 1`.
+- **Flatten Binary Tree to Linked List**: A reverse postorder traversal (Right -> Left -> Root) can be used alongside a `LastVisited` pointer to restructure the tree into a linked list in-place.
+- **Morris Inorder Traversal**: Achieves O(1) space by modifying the tree to create temporary threads from the inorder predecessor to the current node, restoring the tree structure after traversal.
 
 ## 📌 Tips
 
