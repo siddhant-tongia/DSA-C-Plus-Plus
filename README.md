@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **128 problems & 20 OOP concepts** across **16 topics** — and counting!
+> **130 problems & 20 OOP concepts** across **16 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -41,8 +41,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 13 | [Linked List](./13-Linked-List) | 13 | ✅ Done |
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
-| 16 | [Binary Tree](./16-Binary_Tree) | 15 | ✅ Done |
-| | **Total** | **128 + 20 concepts** | 🏆 |
+| 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
+| | **Total** | **130 + 20 concepts** | 🏆 |
 
 ---
 
@@ -66,7 +66,7 @@ DSA-C-Plus-Plus/
 ├── 📁 13-Linked-List/                      # 13 problems — Singly, Doubly, Circular linked list operations & algorithms
 ├── 📁 14-Stack/                            # 13 problems — Stack implementation, monotonic stack, parentheses
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
-├── 📁 16-Binary_Tree/                      # 15 problems — Tree traversals, properties, views, paths, LCA
+├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -264,6 +264,8 @@ DSA-C-Plus-Plus/
 - Build Tree from Preorder and Inorder Traversal
 - Transform to Sum Tree
 - Maximum Width of Binary Tree
+- Flatten Binary Tree to Linked List
+- Morris Inorder Traversal
 
 </details>
 
