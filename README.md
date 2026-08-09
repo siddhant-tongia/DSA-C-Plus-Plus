@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **130 problems & 20 OOP concepts** across **16 topics** — and counting!
+> **132 problems & 20 OOP concepts** across **17 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -42,7 +42,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
-| | **Total** | **130 + 20 concepts** | 🏆 |
+| 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 2 | ✅ Done |
+| | **Total** | **132 + 20 concepts** | 🏆 |
 
 ---
 
@@ -67,6 +68,7 @@ DSA-C-Plus-Plus/
 ├── 📁 14-Stack/                            # 13 problems — Stack implementation, monotonic stack, parentheses
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
+├── 📁 17-Binary-Search-Tree/               # 2 problems  — BST properties, search, insertion, deletion
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -269,6 +271,15 @@ DSA-C-Plus-Plus/
 
 </details>
 
+<details>
+<summary><b>🌲 Binary Search Trees</b></summary>
+
+- Build BST from Array
+- Search in a BST
+- Delete Node in a BST
+
+</details>
+
 ---
 
 ## ⚙️ How to Run
@@ -302,7 +313,7 @@ Upcoming topics to be added as the journey continues:
 - [x] 📚 Stacks
 - [x] 🚶 Queues
 - [x] 🌳 Binary Trees (Traversals, Properties)
-- [ ] 🔍 Binary Search Trees
+- [x] 🔍 Binary Search Trees
 - [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
 - [ ] 💡 Dynamic Programming
 - [ ] 🏃 Greedy Algorithms
