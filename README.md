@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-134-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-137-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **120+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **120+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **134 problems & 20 OOP concepts** across **17 topics** — and counting!
+> **137 problems & 20 OOP concepts** across **17 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -42,8 +42,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 14 | [Stack](./14-Stack) | 13 | ✅ Done |
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
-| 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 4 | ✅ Done |
-| | **Total** | **134 + 20 concepts** | 🏆 |
+| 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 7 | ✅ Done |
+| | **Total** | **137 + 20 concepts** | 🏆 |
 
 ---
 
@@ -68,7 +68,7 @@ DSA-C-Plus-Plus/
 ├── 📁 14-Stack/                            # 13 problems — Stack implementation, monotonic stack, parentheses
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
-├── 📁 17-Binary-Search-Tree/               # 4 problems  — BST properties, search, insertion, deletion
+├── 📁 17-Binary-Search-Tree/               # 7 problems  — BST properties, search, insertion, deletion
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -279,6 +279,9 @@ DSA-C-Plus-Plus/
 - Delete Node in a BST
 - Sorted Array to Balanced BST
 - Validate BST
+- Kth Smallest Element in BST
+- Lowest Common Ancestor in BST
+- Minimum Distance Between BST Nodes
 
 </details>
 
