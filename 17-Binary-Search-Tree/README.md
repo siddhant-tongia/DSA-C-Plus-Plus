@@ -10,6 +10,9 @@
 | 2 | Delete Node in BST | `delete_node_in_BST.cpp` | Medium | Find node, then handle 3 cases: leaf, 1 child, 2 children (replace with inorder successor). | O(H) | O(H) |
 | 3 | Sorted Array to Balanced BST | `sorted_array_to_balanced_BST.cpp` | Easy | Recursively pick the middle element of the array as the root to ensure balance. | O(N) | O(log N) |
 | 4 | Validate BST | `validate_BST.cpp` | Medium | Recursively check if each node's value falls strictly within a valid `(min, max)` range. | O(N) | O(H) |
+| 5 | Kth Smallest Element in BST | `kth_smallest_in_BST.cpp` | Medium | Inorder traversal (Left -> Root -> Right) keeps track of count. When count reaches K, return the node's value. | O(N) | O(H) |
+| 6 | Lowest Common Ancestor in BST | `lowest_common_ancesstor_in_BST.cpp` | Medium | If both p and q are smaller than root, go left. If both are greater, go right. Otherwise, root is LCA. | O(H) | O(H) |
+| 7 | Minimum Distance Between BST Nodes | `minimm_distance_between_BST_nodes.cpp` | Easy | Inorder traversal to find min difference between adjacent nodes. | O(N) | O(H) |
 
 ## 🧠 Key Concepts
 
