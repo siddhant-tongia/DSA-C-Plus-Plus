@@ -46,4 +46,5 @@ void inorder(Node* root){
 int main(){
     vector<int> nums = {-10,3,0,5,9};
     inorder(sortedArrayToBST(nums));
+return 0;
 }
