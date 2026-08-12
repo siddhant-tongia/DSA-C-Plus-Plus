@@ -13,6 +13,7 @@
 | 5 | Kth Smallest Element in BST | `kth_smallest_in_BST.cpp` | Medium | Inorder traversal (Left -> Root -> Right) keeps track of count. When count reaches K, return the node's value. | O(N) | O(H) |
 | 6 | Lowest Common Ancestor in BST | `lowest_common_ancesstor_in_BST.cpp` | Medium | If both p and q are smaller than root, go left. If both are greater, go right. Otherwise, root is LCA. | O(H) | O(H) |
 | 7 | Minimum Distance Between BST Nodes | `minimm_distance_between_BST_nodes.cpp` | Easy | Inorder traversal to find min difference between adjacent nodes. | O(N) | O(H) |
+| 8 | Construct BST from Preorder | `construct_BST_from_preorder.cpp` | Medium | Maintain an upper bound and recursively build the left and right subtrees. | O(N) | O(H) |
 
 ## 🧠 Key Concepts
 
