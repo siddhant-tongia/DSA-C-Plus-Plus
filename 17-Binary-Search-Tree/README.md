@@ -14,7 +14,8 @@
 | 6 | Lowest Common Ancestor in BST | `lowest_common_ancesstor_in_BST.cpp` | Medium | If both p and q are smaller than root, go left. If both are greater, go right. Otherwise, root is LCA. | O(H) | O(H) |
 | 7 | Minimum Distance Between BST Nodes | `minimm_distance_between_BST_nodes.cpp` | Easy | Inorder traversal to find min difference between adjacent nodes. | O(N) | O(H) |
 | 8 | Construct BST from Preorder | `construct_BST_from_preorder.cpp` | Medium | Maintain an upper bound and recursively build the left and right subtrees. | O(N) | O(H) |
-
+| 9 | Merge Two BSTs | `merge_two_BST.cpp` | Medium | Store inorder traversal of both BSTs in arrays, merge the arrays, and build a sorted BST from merged array. | O(N + M) | O(N + M) |
+| 10 | Recover BST | `recover_BST.cpp` | Medium | Inorder traversal to find two swapped nodes where previous node > current node. Swap their values back. | O(N) | O(H) |
 ## 🧠 Key Concepts
 
 - **Node Structure**: Same as a standard Binary Tree, with `left` and `right` child pointers.
