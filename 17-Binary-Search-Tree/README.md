@@ -16,6 +16,7 @@
 | 8 | Construct BST from Preorder | `construct_BST_from_preorder.cpp` | Medium | Maintain an upper bound and recursively build the left and right subtrees. | O(N) | O(H) |
 | 9 | Merge Two BSTs | `merge_two_BST.cpp` | Medium | Store inorder traversal of both BSTs in arrays, merge the arrays, and build a sorted BST from merged array. | O(N + M) | O(N + M) |
 | 10 | Recover BST | `recover_BST.cpp` | Medium | Inorder traversal to find two swapped nodes where previous node > current node. Swap their values back. | O(N) | O(H) |
+| 11 | Populate Next Right Pointers | `populate_next_right_pointer.cpp` | Medium | Level order traversal using a queue to link adjacent nodes at each level. | O(N) | O(N) |
 ## 🧠 Key Concepts
 
 - **Node Structure**: Same as a standard Binary Tree, with `left` and `right` child pointers.
