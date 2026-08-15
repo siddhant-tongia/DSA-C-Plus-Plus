@@ -17,6 +17,9 @@
 | 9 | Merge Two BSTs | `merge_two_BST.cpp` | Medium | Store inorder traversal of both BSTs in arrays, merge the arrays, and build a sorted BST from merged array. | O(N + M) | O(N + M) |
 | 10 | Recover BST | `recover_BST.cpp` | Medium | Inorder traversal to find two swapped nodes where previous node > current node. Swap their values back. | O(N) | O(H) |
 | 11 | Populate Next Right Pointers | `populate_next_right_pointer.cpp` | Medium | Level order traversal using a queue to link adjacent nodes at each level. | O(N) | O(N) |
+| 12 | BST Iterator | `BST_iterator.cpp` | Medium | Use a stack to store left nodes to achieve O(1) average time complexity for next() and hasNext(). | O(1) Avg | O(H) |
+| 13 | Largest BST in Binary Tree | `largest_binary_in_BST.cpp` | Hard | Bottom-up approach returning min, max, and size from each subtree to find the largest valid BST. | O(N) | O(H) |
+| 14 | Inorder Predecessor and Successor | `inorder_predeccessor_and_successer.cpp` | Medium | Traverse tree keeping track of potential pred/succ, or use rightmost of left/leftmost of right if node found. | O(H) | O(1) |
 ## 🧠 Key Concepts
 
 - **Node Structure**: Same as a standard Binary Tree, with `left` and `right` child pointers.
