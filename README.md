@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-144-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-145-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **144 problems & 20 OOP concepts** across **17 topics** — and counting!
+> **145 problems & 20 OOP concepts** across **18 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -43,7 +43,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
 | 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 14 | ✅ Done |
-| | **Total** | **144 + 20 concepts** | 🏆 |
+| 18 | [Graphs](./18-Graphs) | 1 | ✅ Done |
+| | **Total** | **145 + 20 concepts** | 🏆 |
 
 ---
 
@@ -69,6 +70,7 @@ DSA-C-Plus-Plus/
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
 ├── 📁 17-Binary-Search-Tree/               # 14 problems  — BST properties, search, insertion, deletion
+├── 📁 18-Graphs/                           # 1 problem   — Graph representation, traversals
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -326,7 +328,7 @@ Upcoming topics to be added as the journey continues:
 - [x] 🚶 Queues
 - [x] 🌳 Binary Trees (Traversals, Properties)
 - [x] 🔍 Binary Search Trees
-- [ ] 🌐 Graphs (BFS, DFS, Shortest Path)
+- [x] 🌐 Graphs (BFS, DFS, Shortest Path)
 - [ ] 💡 Dynamic Programming
 - [ ] 🏃 Greedy Algorithms
 - [ ] 🧩 Hashing & HashMaps
