@@ -7,6 +7,8 @@
 | # | Problem | File | Difficulty | Approach | Time | Space |
 |---|---------|------|-----------|----------|------|-------|
 | 1 | Implementation of Graph | `implementation_of_graph.cpp` | Easy | Use an adjacency list (hash map/vector) or an adjacency matrix to represent the connections between nodes. | O(V + E) | O(V + E) |
+| 2 | BFS Traversal | `BFS_traversal.cpp` | Easy | Traverse the graph level by level using a Queue. | O(V + E) | O(V) |
+| 3 | DFS Traversal | `DFS_traversal.cpp` | Easy | Traverse the graph depth-wise using Recursion (Call Stack). | O(V + E) | O(V) |
 
 ## 🧠 Key Concepts
 
