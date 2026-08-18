@@ -9,6 +9,8 @@
 | 1 | Implementation of Graph | `implementation_of_graph.cpp` | Easy | Use an adjacency list (hash map/vector) or an adjacency matrix to represent the connections between nodes. | O(V + E) | O(V + E) |
 | 2 | BFS Traversal | `BFS_traversal.cpp` | Easy | Traverse the graph level by level using a Queue. | O(V + E) | O(V) |
 | 3 | DFS Traversal | `DFS_traversal.cpp` | Easy | Traverse the graph depth-wise using Recursion (Call Stack). | O(V + E) | O(V) |
+| 4 | Detect Cycle in Undirected Graph (BFS) | `detect_cycle_in_undirected_graph_using_BFS.cpp` | Medium | Use BFS. Keep track of the parent of each node. If an adjacent visited node is not the parent, a cycle exists. | O(V + E) | O(V) |
+| 5 | Detect Cycle in Undirected Graph (DFS) | `detect_cycle_in_undirected_graph_using_DFS.cpp` | Medium | Use DFS. Pass the parent node in the recursive call. If an adjacent visited node is not the parent, a cycle exists. | O(V + E) | O(V) |
 
 ## 🧠 Key Concepts
 
