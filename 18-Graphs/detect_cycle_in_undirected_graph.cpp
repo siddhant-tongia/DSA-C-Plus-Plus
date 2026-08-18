@@ -21,23 +21,35 @@ public:
         l[v].push_back(u);
     }
 
-    void DFShelper(int u, vector<bool> &vis){
-        cout << u << " ";
+    bool isCycleUndirectedDFS(int u, vector<bool> &vis, int par){
         vis[u] = true;
 
         for(int v : l[u]){
             if(!vis[v]){
-                DFShelper(v,vis);
+                if(isCycleUndirectedDFS(v,vis,u)){
+                    return true;
+                }
+            }else{
+                if(v != par){
+                    return true;
+                }
             }
         }
+        return false;
     }
 
-    void DFS(){
+    bool isCycle(){
         int src = 0; //src -> source node
         vector<bool> vis(V,false);
 
-        DFShelper(src,vis);
-        cout << endl;
+        for(int i=0 ; i<V ; i++){
+            if(!vis[i]){
+                if(isCycleUndirectedDFS(i,vis,-1)){
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 };
  
@@ -50,7 +62,7 @@ int main()
     g.addEdge(1,3);
     g.addEdge(2,4);
 
-    g.DFS();
+    cout<< g.isCycle();
 
 return 0;
 }
