@@ -11,6 +11,7 @@
 | 3 | DFS Traversal | `DFS_traversal.cpp` | Easy | Traverse the graph depth-wise using Recursion (Call Stack). | O(V + E) | O(V) |
 | 4 | Detect Cycle in Undirected Graph (BFS) | `detect_cycle_in_undirected_graph_using_BFS.cpp` | Medium | Use BFS. Keep track of the parent of each node. If an adjacent visited node is not the parent, a cycle exists. | O(V + E) | O(V) |
 | 5 | Detect Cycle in Undirected Graph (DFS) | `detect_cycle_in_undirected_graph_using_DFS.cpp` | Medium | Use DFS. Pass the parent node in the recursive call. If an adjacent visited node is not the parent, a cycle exists. | O(V + E) | O(V) |
+| 6 | Number of Islands | `number_of_islands.cpp` | Medium | Traverse matrix. For each unvisited '1', increment count and use DFS to mark connected '1's as visited. | O(N * M) | O(N * M) |
 
 ## 🧠 Key Concepts
 
