@@ -294,6 +294,17 @@ DSA-C-Plus-Plus/
 
 </details>
 
+<details>
+<summary><b>🌐 Graphs</b></summary>
+
+- Graph Implementation (Adjacency Matrix & List)
+- Breadth First Search (BFS) Traversal
+- Depth First Search (DFS) Traversal
+- Detect Cycle in Undirected Graph (BFS)
+- Detect Cycle in Undirected Graph (DFS)
+
+</details>
+
 ---
 
 ## ⚙️ How to Run
