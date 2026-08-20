@@ -1,7 +1,6 @@
 #include<iostream>
 #include<vector>
 #include<list>
-#include<queue>
 using namespace std;
 
 class Graph{
@@ -55,7 +54,7 @@ public:
  
 int main()
 {
-    Graph g(5);
+    Graph g(4);
 
     g.addEdge(0,1);
     g.addEdge(1,2);
