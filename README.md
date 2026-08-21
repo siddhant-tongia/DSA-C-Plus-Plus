@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-152-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-154-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
@@ -22,13 +22,13 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **152 problems & 20 OOP concepts** across **18 topics** — and counting!
+> **154 problems & 20 OOP concepts** across **18 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
 | 01 | [Fundamentals and Math](./01-Fundamentals-and-Math) | 9 | ✅ Done |
 | 02 | [Arrays Basics](./02-Arrays-Basics) | 7 | ✅ Done |
-| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 8 | ✅ Done |
+| 03 | [Sorting Algorithms](./03-Sorting-Algorithms) | 9 | ✅ Done |
 | 04 | [Searching and Binary Search](./04-Searching-and-Binary-Search) | 5 | ✅ Done |
 | 05 | [Advanced Array Techniques](./05-Advanced-Array-Techniques) | 15 | ✅ Done |
 | 06 | [Binary Search on Answers](./06-Binary-Search-on-Answers) | 3 | ✅ Done |
@@ -43,8 +43,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
 | 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 14 | ✅ Done |
-| 18 | [Graphs](./18-Graphs) | 8 | ✅ Done |
-| | **Total** | **152 + 20 concepts** | 🏆 |
+| 18 | [Graphs](./18-Graphs) | 9 | ✅ Done |
+| | **Total** | **154 + 20 concepts** | 🏆 |
 
 ---
 
@@ -55,7 +55,7 @@ DSA-C-Plus-Plus/
 │
 ├── 📁 01-Fundamentals-and-Math/       # 9 problems  — Basics, patterns, number theory
 ├── 📁 02-Arrays-Basics/               # 7 problems  — Core array operations
-├── 📁 03-Sorting-Algorithms/          # 8 problems  — Classic sorting techniques
+├── 📁 03-Sorting-Algorithms/          # 9 problems  — Classic sorting techniques
 ├── 📁 04-Searching-and-Binary-Search/ # 5 problems  — Linear & binary search variants
 ├── 📁 05-Advanced-Array-Techniques/   # 15 problems — Two pointers, sliding window, etc.
 ├── 📁 06-Binary-Search-on-Answers/    # 3 problems  — Optimization via binary search
@@ -70,7 +70,7 @@ DSA-C-Plus-Plus/
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
 ├── 📁 17-Binary-Search-Tree/               # 14 problems  — BST properties, search, insertion, deletion
-├── 📁 18-Graphs/                           # 8 problems  — Graph representation, traversals, cycle detection
+├── 📁 18-Graphs/                           # 9 problems  — Graph representation, traversals, cycle detection
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -91,6 +91,7 @@ DSA-C-Plus-Plus/
 - Inversion Count
 - Dutch National Flag Algorithm (Sort 0s, 1s, 2s)
 - Kth Largest Element in an Array (Min Heap)
+- Topological Sort
 
 </details>
 
@@ -305,6 +306,7 @@ DSA-C-Plus-Plus/
 - Number of Islands
 - Detect Cycle in Directed Graph (DFS)
 - Rotting Oranges
+- Course Schedule Problem
 
 </details>
 
