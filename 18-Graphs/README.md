@@ -14,6 +14,7 @@
 | 6 | Number of Islands | `number_of_islands.cpp` | Medium | Traverse matrix. For each unvisited '1', increment count and use DFS to mark connected '1's as visited. | O(N * M) | O(N * M) |
 | 7 | Detect Cycle in Directed Graph (DFS) | `detect_cycle_in_directed_graph_using_DFS.cpp` | Medium | Use DFS with a path visited array. If an adjacent node is already in the current path, a cycle exists. | O(V + E) | O(V) |
 | 8 | Rotting Oranges | `rotting_oranges.cpp` | Medium | Use Multi-source BFS starting with all initially rotten oranges. Track time and check if any fresh oranges are left. | O(N * M) | O(N * M) |
+| 9 | Course Schedule | `course_schedule_problem.cpp` | Medium | Use DFS to detect a cycle in a directed graph using a path visited array. If a cycle exists, return false. | O(V + E) | O(V) |
 
 ## 🧠 Key Concepts
 
