@@ -6,14 +6,15 @@
 
 | # | Problem | File | Difficulty | Approach | Time | Space |
 |---|---------|------|-----------|----------|------|-------|
-| 1 | Bubble Sort | `bubblesort.cpp` | Easy | Repeated Adjacent Swaps | O(n²) | O(1) |
-| 2 | Insertion Sort | `insertionsort.cpp` | Easy | Shift & Insert in Sorted Prefix | O(n²) | O(1) |
-| 3 | Selection Sort | `selectionsort.cpp` | Easy | Find Min & Swap to Front | O(n²) | O(1) |
-| 4 | Sort 0s 1s 2s (Dutch National Flag) | `sort_012_DNF.cpp` | Medium | Three-Way Partitioning (DNF) | O(n) | O(1) |
-| 5 | Merge Sort | `mergesort.cpp` | Medium | Divide and Conquer | O(n log n) | O(n) |
-| 6 | Quick Sort | `quicksort.cpp` | Medium | Divide and Conquer | O(n log n) | O(log n) |
-| 7 | Inversion Count | `inversioncount.cpp` | Hard | Modified Merge Sort | O(n log n) | O(n) |
+| 1 | Bubble Sort | `bubble_sort.cpp` | Easy | Repeated Adjacent Swaps | O(n²) | O(1) |
+| 2 | Insertion Sort | `insertion_sort.cpp` | Easy | Shift & Insert in Sorted Prefix | O(n²) | O(1) |
+| 3 | Selection Sort | `selection_sort.cpp` | Easy | Find Min & Swap to Front | O(n²) | O(1) |
+| 4 | Sort 0s 1s 2s (Dutch National Flag) | `sort_012_dnf.cpp` | Medium | Three-Way Partitioning (DNF) | O(n) | O(1) |
+| 5 | Merge Sort | `merge_sort.cpp` | Medium | Divide and Conquer | O(n log n) | O(n) |
+| 6 | Quick Sort | `quick_sort.cpp` | Medium | Divide and Conquer | O(n log n) | O(log n) |
+| 7 | Inversion Count | `inversion_count.cpp` | Hard | Modified Merge Sort | O(n log n) | O(n) |
 | 8 | Kth Largest Element | `kth_largest_element.cpp` | Medium | Min Heap (Priority Queue) | O(n log k) | O(k) |
+| 9 | Topological Sort | `topological_sort.cpp` | Medium | DFS with Stack | O(V + E) | O(V) |
 
 ## 📊 Sorting Algorithm Comparison
 
