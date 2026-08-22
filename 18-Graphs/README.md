@@ -15,6 +15,8 @@
 | 7 | Detect Cycle in Directed Graph (DFS) | `detect_cycle_in_directed_graph_using_DFS.cpp` | Medium | Use DFS with a path visited array. If an adjacent node is already in the current path, a cycle exists. | O(V + E) | O(V) |
 | 8 | Rotting Oranges | `rotting_oranges.cpp` | Medium | Use Multi-source BFS starting with all initially rotten oranges. Track time and check if any fresh oranges are left. | O(N * M) | O(N * M) |
 | 9 | Course Schedule | `course_schedule_problem.cpp` | Medium | Use DFS to detect a cycle in a directed graph using a path visited array. If a cycle exists, return false. | O(V + E) | O(V) |
+| 10 | Flood Fill Algorithm | `flood_fill_algorithm.cpp` | Easy | Use DFS to traverse and replace connected pixels of the original color with the new color. | O(N * M) | O(N * M) |
+| 11 | Course Schedule II | `course_schedule_problem_2.cpp` | Medium | Use Topological Sort (DFS with a stack) to find a valid ordering of courses. | O(V + E) | O(V) |
 
 ## 🧠 Key Concepts
 
