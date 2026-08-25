@@ -4,13 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/siddhant-tongia/DSA-C-Plus-Plus?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-158-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-160-brightgreen?style=for-the-badge)
 
 # 🚀 DSA-C-Plus-Plus
 
 ### **Mastering Data Structures and Algorithms with C++ | SGSITS 2029 Batch**
 
-A comprehensive, well-structured collection of **120+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
+A comprehensive, well-structured collection of **160+ hand-crafted DSA solutions** in C++ — built from the ground up as a learning roadmap for mastering competitive programming and acing technical interviews. Each solution is clean, well-commented, and organized by topic for easy navigation.
 
 Whether you're a fellow student beginning your DSA journey, preparing for placements, or brushing up on fundamentals — this repository is designed to be your go-to reference guide.
 
@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **158 problems & 20 OOP concepts** across **18 topics** — and counting!
+> **160 problems & 20 OOP concepts** across **18 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -43,8 +43,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 15 | [Queue](./15-Queue) | 5 | ✅ Done |
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
 | 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 14 | ✅ Done |
-| 18 | [Graphs](./18-Graphs) | 13 | ✅ Done |
-| | **Total** | **158 + 20 concepts** | 🏆 |
+| 18 | [Graphs](./18-Graphs) | 15 | ✅ Done |
+| | **Total** | **160 + 20 concepts** | 🏆 |
 
 ---
 
@@ -70,7 +70,7 @@ DSA-C-Plus-Plus/
 ├── 📁 15-Queue/                            # 5 problems  — Queue implementation, Circular Queue, Monotonic Queue
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
 ├── 📁 17-Binary-Search-Tree/               # 14 problems  — BST properties, search, insertion, deletion
-├── 📁 18-Graphs/                           # 13 problems — Graph representation, traversals, cycle detection
+├── 📁 18-Graphs/                           # 15 problems — Graph representation, traversals, cycle detection
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -311,6 +311,8 @@ DSA-C-Plus-Plus/
 - Course Schedule II
 - Dijkstra's Algorithm
 - Topological Sort (Kahn's Algorithm)
+- Bellman Ford Algorithm
+- Prim's Algorithm (MST)
 
 </details>
 
