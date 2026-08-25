@@ -19,6 +19,8 @@
 | 11 | Course Schedule II | `course_schedule_problem_2.cpp` | Medium | Use Topological Sort (DFS with a stack) to find a valid ordering of courses. | O(V + E) | O(V) |
 | 12 | Dijkstra's Algorithm | `dijkstras_algorithm.cpp` | Medium | Use a priority queue (min-heap) to find the shortest path from a source node to all other nodes. | O(E log V) | O(V + E) |
 | 13 | Topological Sort (Kahn's Algorithm) | `topological_sort_using_kahns_algorithm.cpp` | Medium | Calculate in-degrees of nodes. Use a Queue to process nodes with 0 in-degree and reduce in-degrees of adjacent nodes. | O(V + E) | O(V) |
+| 14 | Bellman Ford Algorithm | `bellman_ford_algorithm.cpp` | Medium | Relax all edges V-1 times to find the shortest path. Can handle negative weights and detect negative cycles. | O(V * E) | O(V) |
+| 15 | Prim's Algorithm (MST) | `prims_algorithm.cpp` | Medium | Use a priority queue (min-heap) to greedily connect the minimum weight edge to the growing spanning tree. | O(E log V) | O(V + E) |
 
 ## 🧠 Key Concepts
 
