@@ -22,7 +22,7 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ## 📈 Progress Tracker
 
-> **162 problems & 20 OOP concepts** across **19 topics** — and counting!
+> **163 problems & 20 OOP concepts** across **19 topics** — and counting!
 
 | # | 📁 Topic | 🔢 Problems | ✅ Status |
 |:-:|:---------|:-----------:|:---------:|
@@ -44,8 +44,8 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 | 16 | [Binary Tree](./16-Binary_Tree) | 17 | ✅ Done |
 | 17 | [Binary Search Tree](./17-Binary-Search-Tree) | 14 | ✅ Done |
 | 18 | [Graphs](./18-Graphs) | 15 | ✅ Done |
-| 19 | [Disjoint Set Union](./19-Disjoint-Set-Union) | 2 | ✅ Done |
-| | **Total** | **162 + 20 concepts** | 🏆 |
+| 19 | [Disjoint Set Union](./19-Disjoint-Set-Union) | 3 | ✅ Done |
+| | **Total** | **163 + 20 concepts** | 🏆 |
 
 ---
 
@@ -72,7 +72,7 @@ DSA-C-Plus-Plus/
 ├── 📁 16-Binary_Tree/                      # 17 problems — Tree traversals, properties, views, paths, LCA
 ├── 📁 17-Binary-Search-Tree/               # 14 problems  — BST properties, search, insertion, deletion
 ├── 📁 18-Graphs/                           # 15 problems — Graph representation, traversals, cycle detection
-├── 📁 19-Disjoint-Set-Union/               # 2 problems  — DSU implementation, Kruskal's algorithm
+├── 📁 19-Disjoint-Set-Union/               # 3 problems  — DSU implementation, Kruskal's algorithm, Number of Provinces
 ├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
@@ -323,6 +323,7 @@ DSA-C-Plus-Plus/
 
 - Implementation of DSU (Union by Rank & Path Compression)
 - Kruskal's Algorithm (Minimum Spanning Tree)
+- Number of Provinces
 
 </details>
 
