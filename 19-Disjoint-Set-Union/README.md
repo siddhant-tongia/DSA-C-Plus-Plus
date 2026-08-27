@@ -8,6 +8,7 @@
 |---|---------|------|-----------|----------|------|-------|
 | 1 | Implementation of DSU | `implementation.cpp` | Easy | Implement Union by Rank and Path Compression to optimize the Find and Union operations. | O(α(V)) | O(V) |
 | 2 | Kruskal's Algorithm (MST) | `kruskals_algorithm.cpp` | Medium | Sort all edges by weight. Use DSU to greedily pick edges that don't form a cycle until V-1 edges are selected. | O(E log E) | O(V + E) |
+| 3 | Number of Provinces | `number_of_provinces.cpp` | Medium | Use DSU to group connected cities. Count the number of unique root parents to find the total number of connected components. | O(V²) | O(V) |
 
 ## 🧠 Key Concepts
 
