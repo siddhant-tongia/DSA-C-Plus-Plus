@@ -21,6 +21,7 @@
 | 13 | Topological Sort (Kahn's Algorithm) | `topological_sort_using_kahns_algorithm.cpp` | Medium | Calculate in-degrees of nodes. Use a Queue to process nodes with 0 in-degree and reduce in-degrees of adjacent nodes. | O(V + E) | O(V) |
 | 14 | Bellman Ford Algorithm | `bellman_ford_algorithm.cpp` | Medium | Relax all edges V-1 times to find the shortest path. Can handle negative weights and detect negative cycles. | O(V * E) | O(V) |
 | 15 | Prim's Algorithm (MST) | `prims_algorithm.cpp` | Medium | Use a priority queue (min-heap) to greedily connect the minimum weight edge to the growing spanning tree. | O(E log V) | O(V + E) |
+| 16 | Minimum Cost to Connect All Points | `minimum_cost_to_connect_all_points.cpp` | Medium | Use Prim's Algorithm with a min-heap, computing Manhattan distance dynamically as edge weights. | O(V² log V) | O(V²) |
 
 ## 🧠 Key Concepts
 
