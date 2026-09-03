@@ -22,6 +22,7 @@
 | 14 | Bellman Ford Algorithm | `bellman_ford_algorithm.cpp` | Medium | Relax all edges V-1 times to find the shortest path. Can handle negative weights and detect negative cycles. | O(V * E) | O(V) |
 | 15 | Prim's Algorithm (MST) | `prims_algorithm.cpp` | Medium | Use a priority queue (min-heap) to greedily connect the minimum weight edge to the growing spanning tree. | O(E log V) | O(V + E) |
 | 16 | Minimum Cost to Connect All Points | `minimum_cost_to_connect_all_points.cpp` | Medium | Use Prim's Algorithm with a min-heap, computing Manhattan distance dynamically as edge weights. | O(V² log V) | O(V²) |
+| 17 | Cheapest Flights Within K Stops | `cheapest_flight_within_k_stop.cpp` | Medium | Use BFS with a queue storing `{node, {cost, stops}}`. Process level by level based on stops, updating minimum cost to reach each node. | O(K * E) | O(V + E) |
 
 ## 🧠 Key Concepts
 
