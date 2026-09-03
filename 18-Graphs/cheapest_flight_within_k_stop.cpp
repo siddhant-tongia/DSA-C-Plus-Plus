@@ -1,3 +1,4 @@
+
 #include<iostream>
 #include<vector>
 #include<queue>
@@ -5,7 +6,7 @@
 using namespace std;
 
 int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k){
-    vector<pair<int,int>> graph[n];
+    vector<vector<pair<int,int>>> graph(n);
 
     for(int i=0 ; i<flights.size() ; i++){
         int u = flights[i][0];
@@ -24,12 +25,11 @@ int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int
     while(q.size() > 0){
 
         auto p = q.front();
-
-        int u = q.front().first;
-        int cost = q.front().second.first;
-        int stops = q.front().second.second;
-
         q.pop();
+
+        int u = p.first;
+        int cost = p.second.first;
+        int stops = p.second.second;
 
         for(auto neigh : graph[u]){
             int v = neigh.first;
