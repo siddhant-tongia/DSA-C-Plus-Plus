@@ -24,6 +24,7 @@
 | 16 | Minimum Cost to Connect All Points | `minimum_cost_to_connect_all_points.cpp` | Medium | Use Prim's Algorithm with a min-heap, computing Manhattan distance dynamically as edge weights. | O(V² log V) | O(V²) |
 | 17 | Cheapest Flights Within K Stops | `cheapest_flight_within_k_stop.cpp` | Medium | Use BFS with a queue storing `{node, {cost, stops}}`. Process level by level based on stops, updating minimum cost to reach each node. | O(K * E) | O(V + E) |
 | 18 | Bridge in Graph | `bridge_in_graph.cpp` | Hard | Use Tarjan's Algorithm (DFS). Track discovery time and lowest reachable time for each node to find critical connections (bridges). | O(V + E) | O(V) |
+| 19 | Articulation Point | `articulation_point.cpp` | Hard | Use Tarjan's Algorithm (DFS). Track discovery time and lowest reachable time for each node to find critical vertices (articulation points). | O(V + E) | O(V) |
 
 ## 🧠 Key Concepts
 
