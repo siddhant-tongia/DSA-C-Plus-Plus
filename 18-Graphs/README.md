@@ -25,6 +25,8 @@
 | 17 | Cheapest Flights Within K Stops | `cheapest_flight_within_k_stop.cpp` | Medium | Use BFS with a queue storing `{node, {cost, stops}}`. Process level by level based on stops, updating minimum cost to reach each node. | O(K * E) | O(V + E) |
 | 18 | Bridge in Graph | `bridge_in_graph.cpp` | Hard | Use Tarjan's Algorithm (DFS). Track discovery time and lowest reachable time for each node to find critical connections (bridges). | O(V + E) | O(V) |
 | 19 | Articulation Point | `articulation_point.cpp` | Hard | Use Tarjan's Algorithm (DFS). Track discovery time and lowest reachable time for each node to find critical vertices (articulation points). | O(V + E) | O(V) |
+| 20 | Shortest Path (Floyd Warshall) | `shortest_path_in_graph.cpp` | Medium | Compute all-pairs shortest path by dynamically checking if a path through an intermediate node k offers a shorter distance than the current path. | O(V³) | O(V²) |
+| 21 | Strongly Connected Components | `strongly_connected_components.cpp` | Hard | Use Kosaraju's Algorithm. Sort nodes by finish time using topological sort, reverse all edges, and perform DFS in order of decreasing finish time. | O(V + E) | O(V + E) |
 
 ## 🧠 Key Concepts
 
