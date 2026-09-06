@@ -73,7 +73,6 @@ DSA-C-Plus-Plus/
 ├── 📁 17-Binary-Search-Tree/               # 14 problems  — BST properties, search, insertion, deletion
 ├── 📁 18-Graphs/                           # 21 problems — Graph representation, traversals, cycle detection
 ├── 📁 19-Disjoint-Set-Union/               # 3 problems  — DSU implementation, Kruskal's algorithm, Number of Provinces
-├── 📁 DSA Notes And Revision/              # 8 notes     — Topic-wise revision notes & cheatsheets
 │
 └── 📄 README.md                       # You are here!
 ```
