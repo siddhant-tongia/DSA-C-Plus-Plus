@@ -49,6 +49,23 @@ Whether you're a fellow student beginning your DSA journey, preparing for placem
 
 ---
 
+## 🔄 Revision & Mastery Tracker
+
+Learning DSA is only half the battle; retention and independent problem-solving are just as important. To ensure a solid grasp on all concepts, a rigorous **Revision Protocol** has been initiated.
+
+- **Start Date:** 8 September 2026
+- **Objective:** Enhance problem recall, logical structuring (pseudocode), C++ implementation efficiency, and edge-case handling.
+- **Goal:** Revise **166 problems**, committing ~1.5 hours daily.
+
+I track my revision based on the following mastery levels:
+- 🟢 **Green:** Approach, pseudocode, complexity, and edge cases are thoroughly understood independently.
+- 🟡 **Yellow:** Approach is solid, but implementation and edge cases need a bit of polish.
+- 🔴 **Red:** Approach or implementation cannot be confidently reconstructed yet (Needs Recoding).
+
+📝 **View the detailed logs and daily progress here:** [**DSA Revision Tracker**](./DSA-REVISION-TRACKER.md)
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -74,6 +91,7 @@ DSA-C-Plus-Plus/
 ├── 📁 18-Graphs/                           # 21 problems — Graph representation, traversals, cycle detection
 ├── 📁 19-Disjoint-Set-Union/               # 3 problems  — DSU implementation, Kruskal's algorithm, Number of Provinces
 │
+├── 📄 DSA-REVISION-TRACKER.md         # Revision & mastery logs
 └── 📄 README.md                       # You are here!
 ```
 
