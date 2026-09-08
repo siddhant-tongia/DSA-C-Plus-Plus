@@ -55,7 +55,7 @@ Learning DSA is only half the battle; retention and independent problem-solving 
 
 - **Start Date:** 8 September 2026
 - **Objective:** Enhance problem recall, logical structuring (pseudocode), C++ implementation efficiency, and edge-case handling.
-- **Goal:** Revise **166 problems**, committing ~1.5 hours daily.
+- **Goal:** Revise **169 problems**, committing ~1.5 hours daily.
 
 I track my revision based on the following mastery levels:
 - 🟢 **Green:** Approach, pseudocode, complexity, and edge cases are thoroughly understood independently.

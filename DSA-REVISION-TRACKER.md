@@ -5,7 +5,7 @@ This file records the revision progress of previously completed DSA problems.
 ## Revision Information
 
 - Revision Start Date: 8 September 2026
-- Total Problems: 166
+- Total Problems: 169
 - Daily Study Time: Approximately 1.5 hours
 - Objective: Improve problem recall, pseudocode writing, C++ implementation, and edge-case handling
 
@@ -18,13 +18,32 @@ This file records the revision progress of previously completed DSA problems.
 
 ## Daily Progress
 
-| Date | Topic | Problems Revised | Problems Re-coded | Green | Yellow | Red | Notes |
-|---|---|---|---|---:|---:|---:|---|
+| Date | Topic | Problem Name | Status | Re-coded | Notes |
+|---|---|---|:---:|:---:|---|
+| 08 Sep 2026 | 01-Fundamentals-and-Math | All 9 problems | 🟢 Green | No | All concepts clear, mastered independently |
 
 ## Topic Progress
 
 | Topic | Total Problems | Revised | Re-coded | Green | Yellow | Red | Status |
 |---|---:|---:|---:|---:|---:|---:|---|
+| [01-Fundamentals-and-Math](./01-Fundamentals-and-Math) | 9 | 9 | 0 | 9 | 0 | 0 | ✅ Done |
+| [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [09-2D_Arrays](./09-2D_Arrays) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [11-Advanced-Backtracking-Techniques](./11-Advanced-Backtracking-Techniques) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [13-Linked-List](./13-Linked-List) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [14-Stack](./14-Stack) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [15-Queue](./15-Queue) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [16-Binary_Tree](./16-Binary_Tree) | 17 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [17-Binary-Search-Tree](./17-Binary-Search-Tree) | 14 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [18-Graphs](./18-Graphs) | 21 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [19-Disjoint-Set-Union](./19-Disjoint-Set-Union) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 
 ## Revision Rules
 
