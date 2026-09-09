@@ -1,3 +1,11 @@
+/*
+ * Problem: Two Sum II - Input Array Is Sorted
+ * Description: Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number.
+ * Return the indices of the two numbers.
+ * Example:
+ * Input: numbers = [2,7,11,15], target = 9
+ * Output: [0,1] (or [1,2] for 1-based indexing)
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
