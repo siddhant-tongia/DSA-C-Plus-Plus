@@ -1,4 +1,14 @@
 /*
+ * Problem: Best Time to Buy and Sell Stock
+ * Description: You are given an array prices where prices[i] is the price of a given stock on the ith day.
+ * You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+ * Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+ * Example:
+ * Input: prices = [7,1,5,3,6,4]
+ * Output: 5
+ * Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+ */
+/*
 #include<iostream>
 using namespace std;
 int stock(int price[],int n)
@@ -51,7 +61,7 @@ int stock(vector<int>price)
         //     profit=max(profit,price[i]-best_buy);
         // }
         // best_buy=min(best_buy,price[i]);
-        if(price[i]<best_buy)     // my logic 
+        if(price[i]<best_buy)   
         {
             best_buy=price[i];
         }
