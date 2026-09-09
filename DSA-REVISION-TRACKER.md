@@ -21,13 +21,20 @@ This file records the revision progress of previously completed DSA problems.
 | Date | Topic | Problem Name | Status | Re-coded | Notes |
 |---|---|---|:---:|:---:|---|
 | 08 Sep 2026 | 01-Fundamentals-and-Math | All 9 problems | 🟢 Green | No | All concepts clear, mastered independently |
+| 09 Sep 2026 | 02-Arrays-Basics | pair_sum | 🟢 Green | No | Approached optimally on the first try. |
+| 09 Sep 2026 | 02-Arrays-Basics | pair_sum_2 | 🟢 Green | Yes | Two pointer logic applied perfectly, re-coded for practice. |
+| 09 Sep 2026 | 02-Arrays-Basics | product_of_array_itself | 🟢 Green | Yes | Prefix/suffix array logic implemented smoothly, re-coded for practice. |
+| 09 Sep 2026 | 02-Arrays-Basics | square_of_array | 🟢 Green | No | Basic array manipulation handled easily. |
+| 09 Sep 2026 | 02-Arrays-Basics | stock | 🟢 Green | Yes | Took a little more time than others, but solved optimally within a few minutes. |
+| 09 Sep 2026 | 02-Arrays-Basics | subarray | 🟢 Green | No | Logic is clear, no issues. |
+| 09 Sep 2026 | 02-Arrays-Basics | subarray_2 | 🟡 Yellow | Yes | Forgot the optimal O(N) Kadane's algorithm; re-coded after reviewing logic. |
 
 ## Topic Progress
 
 | Topic | Total Problems | Revised | Re-coded | Green | Yellow | Red | Status |
 |---|---:|---:|---:|---:|---:|---:|---|
 | [01-Fundamentals-and-Math](./01-Fundamentals-and-Math) | 9 | 9 | 0 | 9 | 0 | 0 | ✅ Done |
-| [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
