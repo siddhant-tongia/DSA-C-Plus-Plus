@@ -1,3 +1,17 @@
+/*
+ * Problem: Print All Subarrays
+ * Description: Given an array of integers, print all possible contiguous subarrays.
+ * A subarray is a contiguous non-empty sequence of elements within an array.
+ * Example:
+ * Input: arr = [1, 2, 3]
+ * Output: 
+ * 1 
+ * 1 2 
+ * 1 2 3 
+ * 2 
+ * 2 3 
+ * 3 
+ */
 #include<iostream>
 using namespace std;
  
