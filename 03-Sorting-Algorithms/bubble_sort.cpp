@@ -1,3 +1,11 @@
+/*
+ * Problem: Bubble Sort
+ * Description: Implement Bubble Sort to sort an array of integers in ascending order.
+ * Bubble sort works by repeatedly swapping the adjacent elements if they are in the wrong order.
+ * Example:
+ * Input: vec = [4, 2, 5, 3, 1]
+ * Output: [1, 2, 3, 4, 5]
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
