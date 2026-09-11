@@ -28,6 +28,11 @@ This file records the revision progress of previously completed DSA problems.
 | 09 Sep 2026 | 02-Arrays-Basics | stock | 🟢 Green | Yes | Took a little more time than others, but solved optimally within a few minutes. |
 | 09 Sep 2026 | 02-Arrays-Basics | subarray | 🟢 Green | No | Logic is clear, no issues. |
 | 09 Sep 2026 | 02-Arrays-Basics | subarray_2 | 🟡 Yellow | Yes | Forgot the optimal O(N) Kadane's algorithm; re-coded after reviewing logic. |
+| 10 Sep 2026 | 03-Sorting-Algorithms | bubble_sort | 🟢 Green | Yes | Forgot the early termination optimization using the `isSwap` flag; re-coded to include it. |
+| 11 Sep 2026 | 03-Sorting-Algorithms | insertion_sort | 🟢 Green | Yes | Forgot the most optimized approach; re-coded for practice. |
+| 11 Sep 2026 | 03-Sorting-Algorithms | selection_sort | 🟢 Green | No | Logic and approach fully retained, implementation flawless on first thought. |
+| 11 Sep 2026 | 03-Sorting-Algorithms | kth_largest_element | 🟢 Green | Yes | Implemented the brute force approach successfully, but could not recall the optimal approach; re-coded for practice. |
+| 11 Sep 2026 | 03-Sorting-Algorithms | sort_012_dnf | 🟡 Yellow | Yes | Solved independently without hints, though implementation took slightly longer than expected. |
 
 ## Topic Progress
 
@@ -35,7 +40,7 @@ This file records the revision progress of previously completed DSA problems.
 |---|---:|---:|---:|---:|---:|---:|---|
 | [01-Fundamentals-and-Math](./01-Fundamentals-and-Math) | 9 | 9 | 0 | 9 | 0 | 0 | ✅ Done |
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
-| [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
