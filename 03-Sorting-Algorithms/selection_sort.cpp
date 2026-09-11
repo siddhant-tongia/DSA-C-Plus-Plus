@@ -1,3 +1,11 @@
+/*
+ * Problem: Selection Sort
+ * Description: Implement Selection Sort to sort an array of integers in ascending order.
+ * Selection sort works by repeatedly finding the minimum element from the unsorted part and putting it at the beginning.
+ * Example:
+ * Input: vec = [4, 2, 5, 3, 1]
+ * Output: [1, 2, 3, 4, 5]
+ */
 #include<iostream>
 #include<vector>
 #include<algorithm>
