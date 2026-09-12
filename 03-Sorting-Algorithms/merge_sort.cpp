@@ -1,3 +1,11 @@
+/*
+ * Problem: Merge Sort
+ * Description: Implement Merge Sort to sort an array of integers in ascending order.
+ * Merge sort is a divide and conquer algorithm that divides the array into two halves, sorts them, and then merges the sorted halves.
+ * Example:
+ * Input: arr = [38, 27, 43, 3, 9, 82, 10]
+ * Output: [3, 9, 10, 27, 38, 43, 82]
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
