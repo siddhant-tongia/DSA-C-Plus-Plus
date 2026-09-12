@@ -1,3 +1,11 @@
+/*
+ * Problem: Quick Sort
+ * Description: Implement Quick Sort to sort an array of integers in ascending order.
+ * Quick sort is a divide and conquer algorithm that picks an element as pivot and partitions the given array around the picked pivot.
+ * Example:
+ * Input: arr = [4, 6, 2, 5, 7, 9, 1, 3]
+ * Output: [1, 2, 3, 4, 5, 6, 7, 9]
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
