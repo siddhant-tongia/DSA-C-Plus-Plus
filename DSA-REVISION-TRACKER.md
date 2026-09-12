@@ -33,6 +33,10 @@ This file records the revision progress of previously completed DSA problems.
 | 11 Sep 2026 | 03-Sorting-Algorithms | selection_sort | 🟢 Green | No | Logic and approach fully retained, implementation flawless on first thought. |
 | 11 Sep 2026 | 03-Sorting-Algorithms | kth_largest_element | 🟢 Green | Yes | Implemented the brute force approach successfully, but could not recall the optimal approach; re-coded for practice. |
 | 11 Sep 2026 | 03-Sorting-Algorithms | sort_012_dnf | 🟡 Yellow | Yes | Solved independently without hints, though implementation took slightly longer than expected. |
+| 12 Sep 2026 | 03-Sorting-Algorithms | quick_sort | 🟡 Yellow | Yes | Reviewed and re-coded to reinforce the core implementation details after forgetting them. |
+| 12 Sep 2026 | 03-Sorting-Algorithms | merge_sort | 🟡 Yellow | Yes | Forgot the initial approach but reviewed and successfully re-coded to solidify understanding. |
+| 12 Sep 2026 | 03-Sorting-Algorithms | inversion_count | 🟡 Yellow | Yes | Implemented the brute force approach successfully and subsequently learned and applied the optimized approach. |
+| 12 Sep 2026 | 03-Sorting-Algorithms | topological_sort | 🟢 Green | Yes | Successfully solved the problem, though required a brief moment to recall the stack-based approach. |
 
 ## Topic Progress
 
@@ -40,7 +44,7 @@ This file records the revision progress of previously completed DSA problems.
 |---|---:|---:|---:|---:|---:|---:|---|
 | [01-Fundamentals-and-Math](./01-Fundamentals-and-Math) | 9 | 9 | 0 | 9 | 0 | 0 | ✅ Done |
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
-| [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
+| [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
