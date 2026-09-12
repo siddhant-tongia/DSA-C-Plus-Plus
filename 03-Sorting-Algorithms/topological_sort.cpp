@@ -1,3 +1,11 @@
+/*
+ * Problem: Topological Sort
+ * Description: Implement Topological Sort for a Directed Acyclic Graph (DAG).
+ * Topological sorting for a Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge u v, vertex u comes before v in the ordering.
+ * Example:
+ * Graph edges: (3,1), (2,3), (4,0), (4,1), (5,0), (5,3)
+ * Output: 5 4 2 3 1 0 (One valid topological sort)
+ */
 #include<iostream>
 #include<vector>
 #include<list>
@@ -57,7 +65,7 @@ int main()
     g.addEdge(4,0);
     g.addEdge(4,1);
     g.addEdge(5,0);
-    g.addEdge(5,3);
+    g.addEdge(5,2);
 
     g.topologicalsort();
 
