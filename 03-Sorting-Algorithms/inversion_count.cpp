@@ -1,3 +1,11 @@
+/*
+ * Problem: Inversion Count
+ * Description: Given an array, find the total number of inversions of it. Two elements a[i] and a[j] form an inversion if a[i] > a[j] and i < j.
+ * It indicates how close the array is to being sorted.
+ * Example:
+ * Input: arr = [38, 27, 43, 3, 9, 82, 10]
+ * Output: 11
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
