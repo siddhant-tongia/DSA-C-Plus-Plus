@@ -1,3 +1,10 @@
+/*
+ * Problem: Find Minimum in Rotated Sorted Array
+ * Description: Given a rotated sorted array of unique elements, find the minimum element. The array was sorted in ascending order and then rotated at some pivot.
+ * Example:
+ * Input: nums = [3, 4, 5, 1, 2]
+ * Output: 1
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>
