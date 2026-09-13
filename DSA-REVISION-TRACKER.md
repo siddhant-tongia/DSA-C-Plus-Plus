@@ -37,6 +37,11 @@ This file records the revision progress of previously completed DSA problems.
 | 12 Sep 2026 | 03-Sorting-Algorithms | merge_sort | 🟡 Yellow | Yes | Forgot the initial approach but reviewed and successfully re-coded to solidify understanding. |
 | 12 Sep 2026 | 03-Sorting-Algorithms | inversion_count | 🟡 Yellow | Yes | Implemented the brute force approach successfully and subsequently learned and applied the optimized approach. |
 | 12 Sep 2026 | 03-Sorting-Algorithms | topological_sort | 🟢 Green | Yes | Successfully solved the problem, though required a brief moment to recall the stack-based approach. |
+| 13 Sep 2026 | 04-Searching-and-Binary-Search | binary_search | 🟢 Green | No | Logic fully retained, approach applied independently and accurately. |
+| 13 Sep 2026 | 04-Searching-and-Binary-Search | peak_index | 🟢 Green | Yes | Re-coded for practice; approach and implementation were executed easily without any issues. |
+| 13 Sep 2026 | 04-Searching-and-Binary-Search | rotated_sorted_array | 🟢 Green | Yes | Re-coded for practice; successfully solved and implemented the optimal approach. |
+| 13 Sep 2026 | 04-Searching-and-Binary-Search | single_element | 🟢 Green | Yes | Re-coded for practice; logic was retained and the optimal approach was implemented successfully. |
+| 13 Sep 2026 | 04-Searching-and-Binary-Search | find_minimum_in_rotated_sorted_array | 🟡 Yellow | Yes | Re-coded for practice; required extra time to grasp and implement the correct approach. |
 
 ## Topic Progress
 
@@ -45,7 +50,7 @@ This file records the revision progress of previously completed DSA problems.
 | [01-Fundamentals-and-Math](./01-Fundamentals-and-Math) | 9 | 9 | 0 | 9 | 0 | 0 | ✅ Done |
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
-| [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 5 | 4 | 4 | 1 | 0 | ✅ Done |
 | [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
