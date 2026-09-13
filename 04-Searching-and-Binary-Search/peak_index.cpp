@@ -1,3 +1,10 @@
+/*
+ * Problem: Peak Index in a Mountain Array
+ * Description: Find the peak index in a mountain array. A mountain array is strictly increasing to a peak element and then strictly decreasing.
+ * Example:
+ * Input: nums = [1, 3, 2, 1, 0]
+ * Output: 1
+ */
 #include<iostream>
 #include<vector>
 #include<algorithm>
