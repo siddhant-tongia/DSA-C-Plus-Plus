@@ -1,3 +1,10 @@
+/*
+ * Problem: Search in Rotated Sorted Array
+ * Description: Given a rotated sorted array and a target value, find the index of the target. If it does not exist, return -1.
+ * Example:
+ * Input: nums = [6, 7, 0, 1, 2, 3, 4, 5], target = 0
+ * Output: 2
+ */
 #include<iostream>
 #include<vector>
 #include<algorithm>
