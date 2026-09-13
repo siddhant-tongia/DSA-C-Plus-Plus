@@ -1,3 +1,10 @@
+/*
+ * Problem: Binary Search
+ * Description: Implement Binary Search to find the index of a target element in a sorted array. If the target exists, return its index, otherwise return -1.
+ * Example:
+ * Input: nums = [0, 3, 4, 5, 9, 12], target = 12
+ * Output: 5
+ */
 #include<iostream>  // solved by reccursion
 #include<vector>
 #include<algorithm>
