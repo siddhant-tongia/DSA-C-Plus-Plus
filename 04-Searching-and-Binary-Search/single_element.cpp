@@ -1,58 +1,10 @@
 /*
-#include<iostream>
-#include<vector>
-#include<algorithm>
-using namespace std;
-int num(vector<int>nums)
-{
-    for(int val: nums)
-    {
-        int freq=0;
-        for(int ele: nums)
-        {
-            if(val==ele)
-            {
-                freq++;
-            }
-        }
-        if(freq==1)
-        {
-            return val;
-        }
-    }
-return -1;
-}
- 
-int main()
-{
-    vector<int> nums={1,1,2,3,3,4,4,5,5};
-    cout<<"The single number is :"<<num(nums);
-    
-return 0;
-}
-*/
-/*
-#include<iostream>
-#include<vector>
-using namespace std;
-int num(vector<int>nums)
-{
-    int ans=0;
-    for(int val: nums)
-    {
-        ans^=val;
-    }
-return ans;
-}
- 
-int main()
-{
-    vector<int> nums={1,1,2,3,3,4,4,5,5};
-    cout<<"The single number is :"<<num(nums);
-    
-return 0;
-}
-*/
+ * Problem: Single Element in a Sorted Array
+ * Description: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once. Find this single element that appears only once.
+ * Example:
+ * Input: nums = [1, 1, 2, 3, 3, 4, 4, 8, 8]
+ * Output: 2
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
