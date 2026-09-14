@@ -1,36 +1,10 @@
 /*
-#include<iostream>
-#include<vector>
-#include<algorithm>
-using namespace std;
-int area(vector<int>amount)
-{
-    int max_area=0;
-    int n=amount.size();
-    for(int i=0;i<n;i++)
-    {
-        for(int j=i+1;j<n;j++)
-        {
-            if(amount[i]<amount[j])
-            {
-                max_area=max(max_area,amount[i]*(j-i));
-            }
-            if(amount[j]<amount[i])
-            {
-                max_area=max(max_area,amount[j]*(j-i));
-            }
-        }
-    }
-return max_area;
-}
- 
-int main()
-{
-    vector<int>amount={1,8,6,2,5,4,8,3,7};
-    cout<<"The maximum area of this sample is :"<<area(amount)<<endl;
-return 0;
-}
-*/
+ * Problem: Container With Most Water
+ * Description: Given an integer array height of length n, find two lines that together with the x-axis form a container, such that the container contains the most water.
+ * Example:
+ * Input: height = [1,8,6,2,5,4,8,3,7]
+ * Output: 49
+ */
 #include<iostream>
 #include<vector>
 #include<algorithm>
