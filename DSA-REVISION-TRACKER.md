@@ -42,6 +42,10 @@ This file records the revision progress of previously completed DSA problems.
 | 13 Sep 2026 | 04-Searching-and-Binary-Search | rotated_sorted_array | 🟢 Green | Yes | Re-coded for practice; successfully solved and implemented the optimal approach. |
 | 13 Sep 2026 | 04-Searching-and-Binary-Search | single_element | 🟢 Green | Yes | Re-coded for practice; logic was retained and the optimal approach was implemented successfully. |
 | 13 Sep 2026 | 04-Searching-and-Binary-Search | find_minimum_in_rotated_sorted_array | 🟡 Yellow | Yes | Re-coded for practice; required extra time to grasp and implement the correct approach. |
+| 14 Sep 2026 | 05-Advanced-Array-Techniques | container_with_most_water_problem | 🟢 Green | Yes | Optimal two-pointer approach implemented and tested successfully. |
+| 14 Sep 2026 | 05-Advanced-Array-Techniques | kadanes_algorithm | 🟢 Green | Yes | Refined Kadane's algorithm to correctly handle the edge case of all-negative numbers. |
+| 14 Sep 2026 | 05-Advanced-Array-Techniques | two_sum | 🟢 Green | Yes | Optimal approach implemented successfully after a brief moment to recall the logic. |
+| 14 Sep 2026 | 05-Advanced-Array-Techniques | merge_sorted_array | 🟢 Green | Yes | Revised and optimally implemented the back-fill merge approach. |
 
 ## Topic Progress
 
@@ -51,7 +55,7 @@ This file records the revision progress of previously completed DSA problems.
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 5 | 4 | 4 | 1 | 0 | ✅ Done |
-| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 4 | 4 | 4 | 0 | 0 | 🟡 In Progress |
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
