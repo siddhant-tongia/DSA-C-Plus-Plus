@@ -38,3 +38,4 @@
 - **Pattern Recognition Is Key:** Most "hard" array problems are combinations of 2–3 standard techniques (sort + two pointer + hashmap). Train yourself to decompose problems into known patterns.
 - **Space-Time Tradeoff:** Compare brute force → sorting → hashing approaches for the same problem (e.g., Majority Element has O(n²), O(n log n), and O(n) solutions) to understand when each is appropriate.
 - **Duplicate Handling:** In K-Sum problems, skipping duplicate values after fixing an element is critical to avoid duplicate triplets/quadruplets — interviewers specifically watch for this.
+- **Kadane's Edge Case:** When applying Kadane's Algorithm, ensure your `max_sum` is initialized to a sufficiently small value (e.g., `INT_MIN`) instead of 0. This correctly handles arrays where all elements are negative.
