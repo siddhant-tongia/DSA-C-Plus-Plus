@@ -1,27 +1,10 @@
 /*
-#include<iostream>                      //TC = O(n) and SC = O(n)
-#include<vector>
-#include<unordered_set>
-using namespace std;
-int findDuplicate(vector<int> &nums){
-    int n=nums.size();
-    unordered_set<int> s;
-    for(int i=0;i<n;i++){
-        if(s.find(nums[i])!=s.end()){
-            return nums[i];
-        }
-        s.insert(nums[i]);
-    }
-return -1;
-}
- 
-int main()
-{
-    vector<int> nums={1,2,3,3,4};
-    cout<<findDuplicate(nums)<<endl;
-return 0;
-}
-*/
+ * Problem: Find the Duplicate Number
+ * Description: Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive, find the one repeated number.
+ * Example:
+ * Input: nums = [1,3,4,2,2]
+ * Output: 2
+ */
 #include<iostream>                      //TC = O(n) and SC = O(1)  
 #include<vector>                        // Using Linked List
 #include<unordered_set>
