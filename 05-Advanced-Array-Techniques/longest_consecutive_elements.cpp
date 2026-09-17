@@ -1,3 +1,10 @@
+/*
+ * Problem: Longest Consecutive Sequence
+ * Description: Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+ * Example:
+ * Input: nums = [100,4,200,1,3,2]
+ * Output: 4
+ */
 #include <iostream>
 #include <vector>
 #include <unordered_set>
