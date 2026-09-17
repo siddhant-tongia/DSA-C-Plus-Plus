@@ -1,3 +1,10 @@
+/*
+ * Problem: Majority Element (Brute Force)
+ * Description: Given an array nums of size n, return the majority element.
+ * Example:
+ * Input: nums = [3,2,3]
+ * Output: 3
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
