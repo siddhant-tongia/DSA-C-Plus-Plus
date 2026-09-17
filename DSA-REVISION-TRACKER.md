@@ -46,6 +46,9 @@ This file records the revision progress of previously completed DSA problems.
 | 14 Sep 2026 | 05-Advanced-Array-Techniques | kadanes_algorithm | 🟢 Green | Yes | Refined Kadane's algorithm to correctly handle the edge case of all-negative numbers. |
 | 14 Sep 2026 | 05-Advanced-Array-Techniques | two_sum | 🟢 Green | Yes | Optimal approach implemented successfully after a brief moment to recall the logic. |
 | 14 Sep 2026 | 05-Advanced-Array-Techniques | merge_sorted_array | 🟢 Green | Yes | Revised and optimally implemented the back-fill merge approach. |
+| 15 Sep 2026 | 05-Advanced-Array-Techniques | find_duplicate | 🟡 Yellow | Yes | Forgot the slow and fast pointer approach; reviewed and re-coded. |
+| 16 Sep 2026 | 05-Advanced-Array-Techniques | gas_station | 🟡 Yellow | Yes | Forgot the implementation details but thoroughly revised the concepts and re-coded the solution. |
+| 17 Sep 2026 | 05-Advanced-Array-Techniques | longest_consecutive_elements | 🟡 Yellow | Yes | Implemented the optimal solution successfully but struggled with the most optimized approach; re-coded for practice. |
 
 ## Topic Progress
 
@@ -55,7 +58,7 @@ This file records the revision progress of previously completed DSA problems.
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 5 | 4 | 4 | 1 | 0 | ✅ Done |
-| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 4 | 4 | 4 | 0 | 0 | 🟡 In Progress |
+| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 7 | 7 | 4 | 3 | 0 | 🟡 In Progress |
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
