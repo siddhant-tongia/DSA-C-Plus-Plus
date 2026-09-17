@@ -1,3 +1,10 @@
+/*
+ * Problem: Majority Element II
+ * Description: Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+ * Example:
+ * Input: nums = [3,2,3]
+ * Output: [3]
+ */
 #include<iostream>
 #include <algorithm>
 #include<vector>
