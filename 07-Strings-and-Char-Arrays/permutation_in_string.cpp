@@ -1,3 +1,10 @@
+/*
+ * Problem: Permutation in String
+ * Description: Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.
+ * Example:
+ * Input: s1 = "ab", s2 = "eidbaooo"
+ * Output: true
+ */
 #include<iostream>
 using namespace std;
 bool isfreqsame(int freq1[26],int freq2[26]){
