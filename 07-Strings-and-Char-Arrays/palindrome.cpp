@@ -1,3 +1,10 @@
+/*
+ * Problem: Valid Palindrome
+ * Description: Given a string s, return true if it is a palindrome, or false otherwise.
+ * Example:
+ * Input: s = "A man, a plan, a canal: Panama"
+ * Output: true
+ */
 #include<iostream>
 using namespace std;
 bool Palindrome(string str){
