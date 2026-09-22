@@ -1,3 +1,10 @@
+/*
+ * Problem: Reverse Words in a String
+ * Description: Given an input string s, reverse the order of the words.
+ * Example:
+ * Input: s = "the sky is blue"
+ * Output: "blue is sky the"
+ */
 #include<iostream>
 #include<algorithm>
 using namespace std;
