@@ -1,3 +1,14 @@
+/*
+ * Problem: Aggressive Cows (SPOJ AGGRCOW)
+ * Description: Given an array of stall positions and an integer k (number of cows),
+ * place k cows in the stalls such that the minimum distance between any two cows
+ * is maximized. Return the largest possible minimum distance.
+ * Example:
+ * Input: stalls = [1, 2, 8, 4, 9], k = 3
+ * Output: 3
+ * Explanation: Sort stalls -> [1, 2, 4, 8, 9]. Place cows at positions 1, 4, 8.
+ * Distances: (4-1)=3, (8-4)=4. Minimum distance = 3, which is the maximum possible.
+ */
 #include<iostream>
 #include<vector>
 #include<algorithm>
