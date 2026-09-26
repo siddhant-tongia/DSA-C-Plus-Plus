@@ -1,3 +1,16 @@
+/*
+ * Problem: Painter's Partition Problem (LeetCode #410 - Split Array Largest Sum)
+ * Description: Given an array of board lengths and an integer m (number of painters),
+ * divide the boards among m painters such that each painter paints a contiguous set of boards.
+ * Minimize the maximum total length any single painter has to paint.
+ * Each painter paints contiguous boards only.
+ * Example:
+ * Input: boards = [40, 30, 10, 20], m = 2
+ * Output: 60
+ * Explanation: Allocate [40, 20] (sum=60) and [30, 10] (sum=40) — wait, boards must be
+ * contiguous. So: [40] to painter 1 (40) and [30, 10, 20] to painter 2 (60). Max = 60.
+ * Alternatively [40, 30] (70) and [10, 20] (30) gives max = 70, which is worse. Answer: 60.
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
