@@ -54,6 +54,14 @@ This file records the revision progress of previously completed DSA problems.
 | 17 Sep 2026 | 05-Advanced-Array-Techniques | moore_voting | 🟢 Green | Yes | Approach applied flawlessly and re-coded successfully to reinforce understanding. |
 | 18 Sep 2026 | 05-Advanced-Array-Techniques | rainwater_traping | 🟡 Yellow | Yes | Implemented the brute force approach and thoroughly reviewed the optimized solution. |
 | 18 Sep 2026 | 05-Advanced-Array-Techniques | next_permutation | 🟢 Green | Yes | Successfully implemented and verified the optimal approach. |
+| 19 Sep 2026 | 05-Advanced-Array-Techniques | three_sum | 🟡 Yellow | Yes | Implemented brute-force and better approaches, but struggled with the optimal solution. |
+| 21 Sep 2026 | 05-Advanced-Array-Techniques | subarray_sum_equal_to_k | 🔴 Red | Yes | Completed brute-force implementation, but unable to implement the optimal approach. |
+| 22 Sep 2026 | 07-Strings-and-Char-Arrays | permutation_in_string | 🟢 Green | Yes | Sliding window and frequency comparison approach executed successfully without issues. |
+| 22 Sep 2026 | 07-Strings-and-Char-Arrays | reverse_string | 🟢 Green | No | Two-pointer swap logic fully retained; approach recalled and verified instantly. |
+| 22 Sep 2026 | 07-Strings-and-Char-Arrays | remove_all_occurrences | 🟢 Green | Yes | String search and erase approach implemented and completed successfully. |
+| 22 Sep 2026 | 07-Strings-and-Char-Arrays | palindrome | 🟢 Green | Yes | Two-pointer filtering approach applied and completed successfully without hesitation. |
+| 23 Sep 2026 | 07-Strings-and-Char-Arrays | string_compression | 🟡 Yellow | Yes | Solved within a short timeframe; approach and implementation recalled successfully. |
+| 25 Sep 2026 | 06-Binary-Search-on-Answers | aggressive_cow | 🔴 Red | Yes | Reviewed the solution before implementation; the core logic is now clear and was successfully applied. |
 
 ## Topic Progress
 
@@ -63,9 +71,9 @@ This file records the revision progress of previously completed DSA problems.
 | [02-Arrays-Basics](./02-Arrays-Basics) | 7 | 7 | 4 | 6 | 1 | 0 | ✅ Done |
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 5 | 4 | 4 | 1 | 0 | ✅ Done |
-| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 12 | 10 | 8 | 4 | 0 | 🟡 In Progress |
-| [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
-| [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 14 | 12 | 8 | 5 | 1 | 🟡 In Progress |
+| [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 1 | 1 | 0 | 0 | 1 | 🟡 In Progress |
+| [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [09-2D_Arrays](./09-2D_Arrays) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
