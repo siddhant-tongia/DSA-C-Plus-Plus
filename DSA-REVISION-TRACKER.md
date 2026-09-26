@@ -62,6 +62,8 @@ This file records the revision progress of previously completed DSA problems.
 | 22 Sep 2026 | 07-Strings-and-Char-Arrays | palindrome | 🟢 Green | Yes | Two-pointer filtering approach applied and completed successfully without hesitation. |
 | 23 Sep 2026 | 07-Strings-and-Char-Arrays | string_compression | 🟡 Yellow | Yes | Solved within a short timeframe; approach and implementation recalled successfully. |
 | 25 Sep 2026 | 06-Binary-Search-on-Answers | aggressive_cow | 🔴 Red | Yes | Reviewed the solution before implementation; the core logic is now clear and was successfully applied. |
+| 26 Sep 2026 | 06-Binary-Search-on-Answers | book_allocation | 🟡 Yellow | Yes | Re-coded successfully, but required reviewing the logic to correctly handle an edge case. |
+| 26 Sep 2026 | 06-Binary-Search-on-Answers | painter_partition | 🟢 Green | Yes | Re-coded successfully with ease, as the underlying logic is highly similar to the Book Allocation problem. |
 
 ## Topic Progress
 
@@ -72,7 +74,7 @@ This file records the revision progress of previously completed DSA problems.
 | [03-Sorting-Algorithms](./03-Sorting-Algorithms) | 9 | 9 | 8 | 5 | 4 | 0 | ✅ Done |
 | [04-Searching-and-Binary-Search](./04-Searching-and-Binary-Search) | 5 | 5 | 4 | 4 | 1 | 0 | ✅ Done |
 | [05-Advanced-Array-Techniques](./05-Advanced-Array-Techniques) | 15 | 14 | 12 | 8 | 5 | 1 | 🟡 In Progress |
-| [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 1 | 1 | 0 | 0 | 1 | 🟡 In Progress |
+| [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 3 | 3 | 1 | 1 | 1 | ✅ Done |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [09-2D_Arrays](./09-2D_Arrays) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
