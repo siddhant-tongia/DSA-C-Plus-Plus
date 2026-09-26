@@ -1,3 +1,16 @@
+/*
+ * Problem: Book Allocation / Allocate Minimum Pages
+ * Description: Given an array of integers where each element represents the number of pages
+ * in a book, and an integer m representing the number of students, allocate books to students
+ * such that each student gets at least one book, books are allocated in contiguous order,
+ * and the maximum number of pages assigned to any student is minimized.
+ * Return -1 if allocation is not possible.
+ * Example:
+ * Input: books = [12, 34, 67, 90], m = 2
+ * Output: 113
+ * Explanation: Allocate [12, 34, 67] to student 1 (113 pages) and [90] to student 2 (90 pages).
+ * The maximum is 113, which is the minimum possible maximum across all valid allocations.
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
