@@ -1,3 +1,15 @@
+/*
+ * Problem: Maximum Column Sum in 2D Matrix
+ * Description: Given a 2D matrix of dimensions row x col, calculate the sum of elements
+ * for each column and return the maximum sum among all columns.
+ * Example:
+ * Input: matrix = [[1, 2, 3],
+ *                  [4, 5, 6],
+ *                  [7, 8, 9],
+ *                  [10, 11, 12]], row = 4, col = 3
+ * Output: 30
+ * Explanation: Column sums are col 0 = 22, col 1 = 26, col 2 = 30. Maximum is 30.
+ */
 #include<iostream>
 #include<climits>
 
