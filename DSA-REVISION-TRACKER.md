@@ -64,6 +64,11 @@ This file records the revision progress of previously completed DSA problems.
 | 25 Sep 2026 | 06-Binary-Search-on-Answers | aggressive_cow | 🔴 Red | Yes | Reviewed the solution before implementation; the core logic is now clear and was successfully applied. |
 | 26 Sep 2026 | 06-Binary-Search-on-Answers | book_allocation | 🟡 Yellow | Yes | Re-coded successfully, but required reviewing the logic to correctly handle an edge case. |
 | 26 Sep 2026 | 06-Binary-Search-on-Answers | painter_partition | 🟢 Green | Yes | Re-coded successfully with ease, as the underlying logic is highly similar to the Book Allocation problem. |
+| 06 Oct 2026 | 09-2D_Arrays | diagonal_sum | 🟢 Green | Yes | Re-coded successfully; primary and secondary diagonal traversal logic implemented flawlessly. |
+| 06 Oct 2026 | 09-2D_Arrays | find_missing_and_repeated_value | 🟢 Green | Yes | Re-coded successfully; hash set duplicate tracking and mathematical sum formula applied accurately. |
+| 06 Oct 2026 | 09-2D_Arrays | input_output | 🟢 Green | No | Matrix input/output syntax and row-major nested traversal clear and retained effortlessly. |
+| 06 Oct 2026 | 09-2D_Arrays | maximum_column_sum | 🟢 Green | No | Column-wise traversal and maximum accumulation logic retained effortlessly. |
+| 06 Oct 2026 | 09-2D_Arrays | maximum_row_sum | 🟢 Green | No | Row-wise accumulation and maximum sum calculation applied accurately on first thought. |
 
 ## Topic Progress
 
@@ -77,7 +82,7 @@ This file records the revision progress of previously completed DSA problems.
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 3 | 3 | 1 | 1 | 1 | ✅ Done |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
-| [09-2D_Arrays](./09-2D_Arrays) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [09-2D_Arrays](./09-2D_Arrays) | 8 | 5 | 2 | 5 | 0 | 0 | 🟡 In Progress |
 | [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [11-Advanced-Backtracking-Techniques](./11-Advanced-Backtracking-Techniques) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [13-Linked-List](./13-Linked-List) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
