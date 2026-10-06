@@ -1,3 +1,15 @@
+/*
+ * Problem: Maximum Row Sum in 2D Matrix (LeetCode #1672 - Richest Customer Wealth)
+ * Description: Given a 2D matrix of dimensions row x col, calculate the sum of elements
+ * for each row and return the maximum sum among all rows.
+ * Example:
+ * Input: matrix = [[1, 2, 3],
+ *                  [4, 5, 6],
+ *                  [7, 8, 9],
+ *                  [10, 11, 12]], row = 4, col = 3
+ * Output: 33
+ * Explanation: Row sums are row 0 = 6, row 1 = 15, row 2 = 24, row 3 = 33. Maximum is 33.
+ */
 #include<iostream>
 #include<climits>
 
