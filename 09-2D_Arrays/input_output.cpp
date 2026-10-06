@@ -1,3 +1,12 @@
+/*
+ * Problem: 2D Array Input and Output
+ * Description: Take input for a 2D matrix of dimensions row x col from the user
+ * using nested loops and print the matrix in tabular format.
+ * Example:
+ * Input: row = 4, col = 3, elements = [matrix elements]
+ * Output: Matrix printed row-by-row separated by tabs
+ * Explanation: Nested loops iterate over rows and columns for input reading and output display.
+ */
 #include<iostream>
 using namespace std;
 int main(){
