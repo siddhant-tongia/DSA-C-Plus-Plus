@@ -1,3 +1,14 @@
+/*
+ * Problem: Find Missing and Repeated Values (LeetCode #2965)
+ * Description: You are given a 0-indexed 2D integer matrix grid of size n * n with values
+ * in the range [1, n^2]. Each integer appears exactly once except a which appears twice
+ * and b which is missing. The task is to find the repeating and missing numbers a and b.
+ * Return a 2D array [a, b] containing the repeated and the missing numbers.
+ * Example:
+ * Input: grid = [[1,3],[2,2]]
+ * Output: [2,4]
+ * Explanation: Number 2 is repeated and number 4 is missing so the answer is [2,4].
+ */
 #include<iostream>
 #include<vector>
 #include<unordered_set>
