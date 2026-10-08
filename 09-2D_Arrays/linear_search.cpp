@@ -1,3 +1,13 @@
+/*
+ * Problem: Linear Search in 2D Array
+ * Description: Given a 2D matrix of dimensions row x col and a target value key, search for
+ * the key by scanning elements row by row. If found, return its {row, col} indices,
+ * otherwise return {-1, -1}.
+ * Example:
+ * Input: matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]], key = 9
+ * Output: {2, 2}
+ * Explanation: Key 9 is located at row index 2 and column index 2.
+ */
 #include<iostream>
 #include<utility>
 using namespace std;
