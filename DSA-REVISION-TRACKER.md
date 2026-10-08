@@ -69,6 +69,9 @@ This file records the revision progress of previously completed DSA problems.
 | 06 Oct 2026 | 09-2D_Arrays | input_output | 🟢 Green | No | Matrix input/output syntax and row-major nested traversal clear and retained effortlessly. |
 | 06 Oct 2026 | 09-2D_Arrays | maximum_column_sum | 🟢 Green | No | Column-wise traversal and maximum accumulation logic retained effortlessly. |
 | 06 Oct 2026 | 09-2D_Arrays | maximum_row_sum | 🟢 Green | No | Row-wise accumulation and maximum sum calculation applied accurately on first thought. |
+| 08 Oct 2026 | 09-2D_Arrays | linear_search | 🟢 Green | No | Sequential row-major search and coordinate mapping approach verified effortlessly. |
+| 08 Oct 2026 | 09-2D_Arrays | search_in_matrix | 🟡 Yellow | Yes | Completed initial approach and re-coded using an optimized binary search strategy with better time complexity. |
+| 08 Oct 2026 | 09-2D_Arrays | spiral_matrix | 🟡 Yellow | Yes | Re-coded after extra time; recalled core traversal logic but initially missed inner boundary checks (`srow < erow` and `scol < ecol`) to prevent duplicates. |
 
 ## Topic Progress
 
@@ -82,7 +85,7 @@ This file records the revision progress of previously completed DSA problems.
 | [06-Binary-Search-on-Answers](./06-Binary-Search-on-Answers) | 3 | 3 | 3 | 1 | 1 | 1 | ✅ Done |
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
-| [09-2D_Arrays](./09-2D_Arrays) | 8 | 5 | 2 | 5 | 0 | 0 | 🟡 In Progress |
+| [09-2D_Arrays](./09-2D_Arrays) | 8 | 8 | 4 | 6 | 2 | 0 | ✅ Done |
 | [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [11-Advanced-Backtracking-Techniques](./11-Advanced-Backtracking-Techniques) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [13-Linked-List](./13-Linked-List) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
