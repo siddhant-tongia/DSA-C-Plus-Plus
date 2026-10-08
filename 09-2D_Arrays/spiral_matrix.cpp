@@ -1,3 +1,16 @@
+/*
+ * Problem: Spiral Matrix (LeetCode #54)
+ * Description: Given an m x n matrix, return all elements of the matrix in spiral order,
+ * traversing clockwise from top-left boundary to bottom-right inward.
+ * Example:
+ * Input: matrix = [[1, 2, 3, 4],
+ *                  [5, 6, 7, 8],
+ *                  [9, 10, 11, 12],
+ *                  [13, 14, 15, 16]]
+ * Output: [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5, 6, 7, 11, 10]
+ * Explanation: Traverse top row (1..4), right column (8, 12, 16), bottom row (15..13),
+ * left column (9), then inner boundary (6, 7, 11, 10).
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
