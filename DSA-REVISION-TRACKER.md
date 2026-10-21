@@ -72,6 +72,10 @@ This file records the revision progress of previously completed DSA problems.
 | 08 Oct 2026 | 09-2D_Arrays | linear_search | 🟢 Green | No | Sequential row-major search and coordinate mapping approach verified effortlessly. |
 | 08 Oct 2026 | 09-2D_Arrays | search_in_matrix | 🟡 Yellow | Yes | Completed initial approach and re-coded using an optimized binary search strategy with better time complexity. |
 | 08 Oct 2026 | 09-2D_Arrays | spiral_matrix | 🟡 Yellow | Yes | Re-coded after extra time; recalled core traversal logic but initially missed inner boundary checks (`srow < erow` and `scol < ecol`) to prevent duplicates. |
+| 21 Oct 2026 | 10-Recursion_Basics | array_is_sorted_or_not | 🟢 Green | No | Recursive comparison logic and base condition handling retained and verified effortlessly. |
+| 21 Oct 2026 | 10-Recursion_Basics | factorial | 🟢 Green | No | Linear recursive relation and base case conditions (n <= 1) recalled and verified effortlessly. |
+| 21 Oct 2026 | 10-Recursion_Basics | fibonacci | 🟢 Green | No | Recursive tree branching and base conditions (n <= 1) recalled and verified effortlessly. |
+| 21 Oct 2026 | 10-Recursion_Basics | sum_of_n_nums | 🟢 Green | No | Linear recursive accumulation and base condition (n == 1) retained and verified effortlessly. |
 
 ## Topic Progress
 
@@ -86,7 +90,7 @@ This file records the revision progress of previously completed DSA problems.
 | [07-Strings-and-Char-Arrays](./07-Strings-and-Char-Arrays) | 6 | 5 | 4 | 4 | 1 | 0 | 🟡 In Progress |
 | [08-Maths_For_DSA](./08-Maths_For_DSA) | 7 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [09-2D_Arrays](./09-2D_Arrays) | 8 | 8 | 4 | 6 | 2 | 0 | ✅ Done |
-| [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
+| [10-Recursion_Basics](./10-Recursion_Basics) | 8 | 4 | 0 | 4 | 0 | 0 | 🟡 In Progress |
 | [11-Advanced-Backtracking-Techniques](./11-Advanced-Backtracking-Techniques) | 6 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [13-Linked-List](./13-Linked-List) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
 | [14-Stack](./14-Stack) | 13 | 0 | 0 | 0 | 0 | 0 | ⚪ Not Started |
