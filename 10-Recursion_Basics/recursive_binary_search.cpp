@@ -1,3 +1,13 @@
+/*
+ * Problem: Binary Search (Recursive) (LeetCode #704)
+ * Description: Given an array of integers nums sorted in ascending order, and an integer target,
+ * search for target in nums using recursive divide-and-conquer. Return its index if found,
+ * otherwise return -1.
+ * Example:
+ * Input: nums = [-1, 0, 3, 5, 9, 12], target = 9
+ * Output: 4
+ * Explanation: 9 exists in nums and its index is 4.
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
