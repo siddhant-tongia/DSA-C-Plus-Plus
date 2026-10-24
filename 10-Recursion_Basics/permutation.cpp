@@ -1,3 +1,12 @@
+/*
+ * Problem: Permutations (LeetCode #46)
+ * Description: Given an array nums of distinct integers, return all possible permutations
+ * using recursive backtracking (swap, recurse, backtrack).
+ * Example:
+ * Input: nums = [1, 2, 3]
+ * Output: [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 2, 1], [3, 1, 2]]
+ * Explanation: There are 3! = 6 unique permutations for an array of 3 distinct numbers.
+ */
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -19,6 +28,7 @@ vector<vector<int>> permute(vector<int>& nums){
     getPerms(nums,0,ans);
     return ans;
 }
+
 int main(){
     vector<int>nums={1,2,3};
     vector<vector<int>> result=permute(nums);
